@@ -1,0 +1,197 @@
+========== training ==========
+Epoch 1 - avg_train_loss: 0.4703  avg_val_loss: 0.3707  time: 41s
+Epoch 1 - Accuracy: 0.8556566970091027
+Epoch 1 - Save Best Score: 0.8557 Model
+========== training ==========
+Epoch 1 - avg_train_loss: 0.4703  avg_val_loss: 0.3707  time: 37s
+Epoch 1 - Accuracy: 0.8556566970091027
+Epoch 1 - Save Best Score: 0.8557 Model
+Epoch 2 - avg_train_loss: 0.3319  avg_val_loss: 0.3633  time: 44s
+Epoch 2 - Accuracy: 0.8686605981794538
+Epoch 2 - Save Best Score: 0.8687 Model
+Epoch 3 - avg_train_loss: 0.2906  avg_val_loss: 0.3338  time: 44s
+Epoch 3 - Accuracy: 0.8823146944083224
+Epoch 3 - Save Best Score: 0.8823 Model
+Epoch 4 - avg_train_loss: 0.2512  avg_val_loss: 0.3397  time: 40s
+Epoch 4 - Accuracy: 0.8855656697009102
+Epoch 4 - Save Best Score: 0.8856 Model
+Epoch 5 - avg_train_loss: 0.2213  avg_val_loss: 0.3292  time: 40s
+Epoch 5 - Accuracy: 0.8881664499349805
+Epoch 5 - Save Best Score: 0.8882 Model
+Epoch 6 - avg_train_loss: 0.1864  avg_val_loss: 0.3551  time: 41s
+Epoch 6 - Accuracy: 0.8836150845253576
+Epoch 7 - avg_train_loss: 0.1516  avg_val_loss: 0.3513  time: 44s
+Epoch 7 - Accuracy: 0.8868660598179454
+Epoch 8 - avg_train_loss: 0.1319  avg_val_loss: 0.3550  time: 51s
+Epoch 8 - Accuracy: 0.8881664499349805
+Epoch 9 - avg_train_loss: 0.1180  avg_val_loss: 0.3558  time: 39s
+Epoch 9 - Accuracy: 0.8849154746423927
+Epoch 10 - avg_train_loss: 0.1126  avg_val_loss: 0.3565  time: 44s
+Epoch 10 - Accuracy: 0.8862158647594278
+========== CV ==========
+Score: 0.88817
+========== training ==========
+========== training ==========
+Epoch 1 - avg_train_loss: 0.4703  avg_val_loss: 0.3707  time: 36s
+Epoch 1 - avg_train_loss: 0.4703  avg_val_loss: 0.3707  time: 36s
+Epoch 1 - Accuracy: 0.8556566970091027
+Epoch 1 - Accuracy: 0.8556566970091027
+Epoch 1 - Save Best Score: 0.8557 Model
+Epoch 1 - Save Best Score: 0.8557 Model
+Epoch 2 - avg_train_loss: 0.3319  avg_val_loss: 0.3633  time: 38s
+Epoch 2 - avg_train_loss: 0.3319  avg_val_loss: 0.3633  time: 38s
+Epoch 2 - Accuracy: 0.8686605981794538
+Epoch 2 - Accuracy: 0.8686605981794538
+Epoch 2 - Save Best Score: 0.8687 Model
+Epoch 2 - Save Best Score: 0.8687 Model
+Epoch 3 - avg_train_loss: 0.2906  avg_val_loss: 0.3338  time: 39s
+Epoch 3 - avg_train_loss: 0.2906  avg_val_loss: 0.3338  time: 39s
+Epoch 3 - Accuracy: 0.8823146944083224
+Epoch 3 - Accuracy: 0.8823146944083224
+Epoch 3 - Save Best Score: 0.8823 Model
+Epoch 3 - Save Best Score: 0.8823 Model
+Epoch 4 - avg_train_loss: 0.2512  avg_val_loss: 0.3397  time: 41s
+Epoch 4 - avg_train_loss: 0.2512  avg_val_loss: 0.3397  time: 41s
+Epoch 4 - Accuracy: 0.8855656697009102
+Epoch 4 - Accuracy: 0.8855656697009102
+Epoch 4 - Save Best Score: 0.8856 Model
+Epoch 4 - Save Best Score: 0.8856 Model
+Epoch 5 - avg_train_loss: 0.2213  avg_val_loss: 0.3292  time: 45s
+Epoch 5 - avg_train_loss: 0.2213  avg_val_loss: 0.3292  time: 45s
+Epoch 5 - Accuracy: 0.8881664499349805
+Epoch 5 - Accuracy: 0.8881664499349805
+Epoch 5 - Save Best Score: 0.8882 Model
+Epoch 5 - Save Best Score: 0.8882 Model
+========== training ==========
+Epoch 1 - avg_train_loss: 0.4703  avg_val_loss: 0.3707  time: 40s
+Epoch 1 - Accuracy: 0.8556566970091027
+Epoch 1 - Save Best Score: 0.8557 Model
+Epoch 2 - avg_train_loss: 0.3319  avg_val_loss: 0.3633  time: 40s
+Epoch 2 - Accuracy: 0.8686605981794538
+Epoch 2 - Save Best Score: 0.8687 Model
+Epoch 3 - avg_train_loss: 0.2906  avg_val_loss: 0.3338  time: 41s
+Epoch 3 - Accuracy: 0.8823146944083224
+Epoch 3 - Save Best Score: 0.8823 Model
+Epoch 4 - avg_train_loss: 0.2512  avg_val_loss: 0.3397  time: 38s
+Epoch 4 - Accuracy: 0.8855656697009102
+Epoch 4 - Save Best Score: 0.8856 Model
+Epoch 5 - avg_train_loss: 0.2213  avg_val_loss: 0.3292  time: 43s
+Epoch 5 - Accuracy: 0.8881664499349805
+Epoch 5 - Save Best Score: 0.8882 Model
+Epoch 6 - avg_train_loss: 0.1864  avg_val_loss: 0.3551  time: 48s
+Epoch 6 - Accuracy: 0.8836150845253576
+Epoch 7 - avg_train_loss: 0.1516  avg_val_loss: 0.3513  time: 49s
+Epoch 7 - Accuracy: 0.8868660598179454
+Epoch 8 - avg_train_loss: 0.1319  avg_val_loss: 0.3550  time: 41s
+Epoch 8 - Accuracy: 0.8881664499349805
+Epoch 9 - avg_train_loss: 0.1180  avg_val_loss: 0.3558  time: 49s
+Epoch 9 - Accuracy: 0.8849154746423927
+Epoch 10 - avg_train_loss: 0.1126  avg_val_loss: 0.3565  time: 40s
+Epoch 10 - Accuracy: 0.8862158647594278
+========== CV ==========
+Score: 0.88817
+========== training ==========
+========== training ==========
+========== training ==========
+========== training ==========
+Epoch 1 - avg_train_loss: 0.4703  avg_val_loss: 0.3707  time: 36s
+Epoch 1 - avg_train_loss: 0.4703  avg_val_loss: 0.3707  time: 36s
+Epoch 1 - avg_train_loss: 0.4703  avg_val_loss: 0.3707  time: 36s
+Epoch 1 - avg_train_loss: 0.4703  avg_val_loss: 0.3707  time: 36s
+Epoch 1 - Accuracy: 0.8556566970091027
+Epoch 1 - Accuracy: 0.8556566970091027
+Epoch 1 - Accuracy: 0.8556566970091027
+Epoch 1 - Accuracy: 0.8556566970091027
+Epoch 1 - Save Best Score: 0.8557 Model
+Epoch 1 - Save Best Score: 0.8557 Model
+Epoch 1 - Save Best Score: 0.8557 Model
+Epoch 1 - Save Best Score: 0.8557 Model
+Epoch 2 - avg_train_loss: 0.3319  avg_val_loss: 0.3633  time: 35s
+Epoch 2 - avg_train_loss: 0.3319  avg_val_loss: 0.3633  time: 35s
+Epoch 2 - avg_train_loss: 0.3319  avg_val_loss: 0.3633  time: 35s
+Epoch 2 - avg_train_loss: 0.3319  avg_val_loss: 0.3633  time: 35s
+Epoch 2 - Accuracy: 0.8686605981794538
+Epoch 2 - Accuracy: 0.8686605981794538
+Epoch 2 - Accuracy: 0.8686605981794538
+Epoch 2 - Accuracy: 0.8686605981794538
+Epoch 2 - Save Best Score: 0.8687 Model
+Epoch 2 - Save Best Score: 0.8687 Model
+Epoch 2 - Save Best Score: 0.8687 Model
+Epoch 2 - Save Best Score: 0.8687 Model
+Epoch 3 - avg_train_loss: 0.2906  avg_val_loss: 0.3338  time: 38s
+Epoch 3 - avg_train_loss: 0.2906  avg_val_loss: 0.3338  time: 38s
+Epoch 3 - avg_train_loss: 0.2906  avg_val_loss: 0.3338  time: 38s
+Epoch 3 - avg_train_loss: 0.2906  avg_val_loss: 0.3338  time: 38s
+Epoch 3 - Accuracy: 0.8823146944083224
+Epoch 3 - Accuracy: 0.8823146944083224
+Epoch 3 - Accuracy: 0.8823146944083224
+Epoch 3 - Accuracy: 0.8823146944083224
+Epoch 3 - Save Best Score: 0.8823 Model
+Epoch 3 - Save Best Score: 0.8823 Model
+Epoch 3 - Save Best Score: 0.8823 Model
+Epoch 3 - Save Best Score: 0.8823 Model
+Epoch 4 - avg_train_loss: 0.2512  avg_val_loss: 0.3397  time: 38s
+Epoch 4 - avg_train_loss: 0.2512  avg_val_loss: 0.3397  time: 38s
+Epoch 4 - avg_train_loss: 0.2512  avg_val_loss: 0.3397  time: 38s
+Epoch 4 - avg_train_loss: 0.2512  avg_val_loss: 0.3397  time: 38s
+Epoch 4 - Accuracy: 0.8855656697009102
+Epoch 4 - Accuracy: 0.8855656697009102
+Epoch 4 - Accuracy: 0.8855656697009102
+Epoch 4 - Accuracy: 0.8855656697009102
+Epoch 4 - Save Best Score: 0.8856 Model
+Epoch 4 - Save Best Score: 0.8856 Model
+Epoch 4 - Save Best Score: 0.8856 Model
+Epoch 4 - Save Best Score: 0.8856 Model
+========== training ==========
+========== training ==========
+========== training ==========
+========== training ==========
+========== training ==========
+========== training ==========
+========== training ==========
+========== training ==========
+========== training ==========
+========== training ==========
+========== training ==========
+========== training ==========
+========== training ==========
+========== training ==========
+========== training ==========
+========== training ==========
+========== training ==========
+========== training ==========
+========== training ==========
+========== training ==========
+========== training ==========
+========== training ==========
+========== training ==========
+========== training ==========
+========== training ==========
+========== training ==========
+========== training ==========
+========== training ==========
+========== training ==========
+========== training ==========
+========== training ==========
+========== training ==========
+========== training ==========
+========== training ==========
+========== training ==========
+========== training ==========
+========== training ==========
+========== training ==========
+========== training ==========
+========== training ==========
+========== training ==========
+========== training ==========
+========== training ==========
+========== training ==========
+========== training ==========
+========== training ==========
+========== training ==========
+========== training ==========
+========== training ==========
+========== training ==========
+========== training ==========
+========== training ==========
+========== training ==========
