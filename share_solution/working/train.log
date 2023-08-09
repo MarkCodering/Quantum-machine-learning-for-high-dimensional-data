@@ -311,3 +311,378 @@ Score: 0.88557
 Score: 0.88557
 Score: 0.88557
 Score: 0.88557
+========== training ==========
+========== training ==========
+========== training ==========
+========== training ==========
+========== training ==========
+Epoch 1 - avg_train_loss: -14.8064  avg_val_loss: -45.1570  time: 32s
+Epoch 1 - avg_train_loss: -14.8064  avg_val_loss: -45.1570  time: 32s
+Epoch 1 - avg_train_loss: -14.8064  avg_val_loss: -45.1570  time: 32s
+Epoch 1 - avg_train_loss: -14.8064  avg_val_loss: -45.1570  time: 32s
+Epoch 1 - avg_train_loss: -14.8064  avg_val_loss: -45.1570  time: 32s
+Epoch 1 - Accuracy: 0.7483745123537061
+Epoch 1 - Accuracy: 0.7483745123537061
+Epoch 1 - Accuracy: 0.7483745123537061
+Epoch 1 - Accuracy: 0.7483745123537061
+Epoch 1 - Accuracy: 0.7483745123537061
+Epoch 1 - Save Best Score: 0.7484 Model
+Epoch 1 - Save Best Score: 0.7484 Model
+Epoch 1 - Save Best Score: 0.7484 Model
+Epoch 1 - Save Best Score: 0.7484 Model
+Epoch 1 - Save Best Score: 0.7484 Model
+Epoch 2 - avg_train_loss: -65.3811  avg_val_loss: -87.9103  time: 35s
+Epoch 2 - avg_train_loss: -65.3811  avg_val_loss: -87.9103  time: 35s
+Epoch 2 - avg_train_loss: -65.3811  avg_val_loss: -87.9103  time: 35s
+Epoch 2 - avg_train_loss: -65.3811  avg_val_loss: -87.9103  time: 35s
+Epoch 2 - avg_train_loss: -65.3811  avg_val_loss: -87.9103  time: 35s
+Epoch 2 - Accuracy: 0.7483745123537061
+Epoch 2 - Accuracy: 0.7483745123537061
+Epoch 2 - Accuracy: 0.7483745123537061
+Epoch 2 - Accuracy: 0.7483745123537061
+Epoch 2 - Accuracy: 0.7483745123537061
+Epoch 3 - avg_train_loss: -107.2780  avg_val_loss: -125.6730  time: 36s
+Epoch 3 - avg_train_loss: -107.2780  avg_val_loss: -125.6730  time: 36s
+Epoch 3 - avg_train_loss: -107.2780  avg_val_loss: -125.6730  time: 36s
+Epoch 3 - avg_train_loss: -107.2780  avg_val_loss: -125.6730  time: 36s
+Epoch 3 - avg_train_loss: -107.2780  avg_val_loss: -125.6730  time: 36s
+Epoch 3 - Accuracy: 0.8426527958387516
+Epoch 3 - Accuracy: 0.8426527958387516
+Epoch 3 - Accuracy: 0.8426527958387516
+Epoch 3 - Accuracy: 0.8426527958387516
+Epoch 3 - Accuracy: 0.8426527958387516
+Epoch 3 - Save Best Score: 0.8427 Model
+Epoch 3 - Save Best Score: 0.8427 Model
+Epoch 3 - Save Best Score: 0.8427 Model
+Epoch 3 - Save Best Score: 0.8427 Model
+Epoch 3 - Save Best Score: 0.8427 Model
+Epoch 4 - avg_train_loss: -145.8551  avg_val_loss: -161.7448  time: 36s
+Epoch 4 - avg_train_loss: -145.8551  avg_val_loss: -161.7448  time: 36s
+Epoch 4 - avg_train_loss: -145.8551  avg_val_loss: -161.7448  time: 36s
+Epoch 4 - avg_train_loss: -145.8551  avg_val_loss: -161.7448  time: 36s
+Epoch 4 - avg_train_loss: -145.8551  avg_val_loss: -161.7448  time: 36s
+Epoch 4 - Accuracy: 0.8198959687906372
+Epoch 4 - Accuracy: 0.8198959687906372
+Epoch 4 - Accuracy: 0.8198959687906372
+Epoch 4 - Accuracy: 0.8198959687906372
+Epoch 4 - Accuracy: 0.8198959687906372
+Epoch 5 - avg_train_loss: -179.8848  avg_val_loss: -192.5994  time: 37s
+Epoch 5 - avg_train_loss: -179.8848  avg_val_loss: -192.5994  time: 37s
+Epoch 5 - avg_train_loss: -179.8848  avg_val_loss: -192.5994  time: 37s
+Epoch 5 - avg_train_loss: -179.8848  avg_val_loss: -192.5994  time: 37s
+Epoch 5 - avg_train_loss: -179.8848  avg_val_loss: -192.5994  time: 37s
+Epoch 5 - Accuracy: 0.7483745123537061
+Epoch 5 - Accuracy: 0.7483745123537061
+Epoch 5 - Accuracy: 0.7483745123537061
+Epoch 5 - Accuracy: 0.7483745123537061
+Epoch 5 - Accuracy: 0.7483745123537061
+Epoch 6 - avg_train_loss: -207.6571  avg_val_loss: -217.1381  time: 35s
+Epoch 6 - avg_train_loss: -207.6571  avg_val_loss: -217.1381  time: 35s
+Epoch 6 - avg_train_loss: -207.6571  avg_val_loss: -217.1381  time: 35s
+Epoch 6 - avg_train_loss: -207.6571  avg_val_loss: -217.1381  time: 35s
+Epoch 6 - avg_train_loss: -207.6571  avg_val_loss: -217.1381  time: 35s
+Epoch 6 - Accuracy: 0.7483745123537061
+Epoch 6 - Accuracy: 0.7483745123537061
+Epoch 6 - Accuracy: 0.7483745123537061
+Epoch 6 - Accuracy: 0.7483745123537061
+Epoch 6 - Accuracy: 0.7483745123537061
+Epoch 7 - avg_train_loss: -228.3291  avg_val_loss: -234.5780  time: 36s
+Epoch 7 - avg_train_loss: -228.3291  avg_val_loss: -234.5780  time: 36s
+Epoch 7 - avg_train_loss: -228.3291  avg_val_loss: -234.5780  time: 36s
+Epoch 7 - avg_train_loss: -228.3291  avg_val_loss: -234.5780  time: 36s
+Epoch 7 - avg_train_loss: -228.3291  avg_val_loss: -234.5780  time: 36s
+Epoch 7 - Accuracy: 0.7483745123537061
+Epoch 7 - Accuracy: 0.7483745123537061
+Epoch 7 - Accuracy: 0.7483745123537061
+Epoch 7 - Accuracy: 0.7483745123537061
+Epoch 7 - Accuracy: 0.7483745123537061
+Epoch 8 - avg_train_loss: -241.9179  avg_val_loss: -243.0948  time: 36s
+Epoch 8 - avg_train_loss: -241.9179  avg_val_loss: -243.0948  time: 36s
+Epoch 8 - avg_train_loss: -241.9179  avg_val_loss: -243.0948  time: 36s
+Epoch 8 - avg_train_loss: -241.9179  avg_val_loss: -243.0948  time: 36s
+Epoch 8 - avg_train_loss: -241.9179  avg_val_loss: -243.0948  time: 36s
+Epoch 8 - Accuracy: 0.7483745123537061
+Epoch 8 - Accuracy: 0.7483745123537061
+Epoch 8 - Accuracy: 0.7483745123537061
+Epoch 8 - Accuracy: 0.7483745123537061
+Epoch 8 - Accuracy: 0.7483745123537061
+Epoch 9 - avg_train_loss: -249.4373  avg_val_loss: -251.9902  time: 35s
+Epoch 9 - avg_train_loss: -249.4373  avg_val_loss: -251.9902  time: 35s
+Epoch 9 - avg_train_loss: -249.4373  avg_val_loss: -251.9902  time: 35s
+Epoch 9 - avg_train_loss: -249.4373  avg_val_loss: -251.9902  time: 35s
+Epoch 9 - avg_train_loss: -249.4373  avg_val_loss: -251.9902  time: 35s
+Epoch 9 - Accuracy: 0.7483745123537061
+Epoch 9 - Accuracy: 0.7483745123537061
+Epoch 9 - Accuracy: 0.7483745123537061
+Epoch 9 - Accuracy: 0.7483745123537061
+Epoch 9 - Accuracy: 0.7483745123537061
+Epoch 10 - avg_train_loss: -252.5660  avg_val_loss: -252.6183  time: 38s
+Epoch 10 - avg_train_loss: -252.5660  avg_val_loss: -252.6183  time: 38s
+Epoch 10 - avg_train_loss: -252.5660  avg_val_loss: -252.6183  time: 38s
+Epoch 10 - avg_train_loss: -252.5660  avg_val_loss: -252.6183  time: 38s
+Epoch 10 - avg_train_loss: -252.5660  avg_val_loss: -252.6183  time: 38s
+Epoch 10 - Accuracy: 0.7483745123537061
+Epoch 10 - Accuracy: 0.7483745123537061
+Epoch 10 - Accuracy: 0.7483745123537061
+Epoch 10 - Accuracy: 0.7483745123537061
+Epoch 10 - Accuracy: 0.7483745123537061
+========== CV ==========
+========== CV ==========
+========== CV ==========
+========== CV ==========
+========== CV ==========
+Score: 0.84265
+Score: 0.84265
+Score: 0.84265
+Score: 0.84265
+Score: 0.84265
+========== training ==========
+========== training ==========
+========== training ==========
+========== training ==========
+========== training ==========
+========== training ==========
+Epoch 1 - avg_train_loss: -0.1258  avg_val_loss: -0.1398  time: 152s
+Epoch 1 - avg_train_loss: -0.1258  avg_val_loss: -0.1398  time: 152s
+Epoch 1 - avg_train_loss: -0.1258  avg_val_loss: -0.1398  time: 152s
+Epoch 1 - avg_train_loss: -0.1258  avg_val_loss: -0.1398  time: 152s
+Epoch 1 - avg_train_loss: -0.1258  avg_val_loss: -0.1398  time: 152s
+Epoch 1 - avg_train_loss: -0.1258  avg_val_loss: -0.1398  time: 152s
+Epoch 1 - Accuracy: 0.5812743823146944
+Epoch 1 - Accuracy: 0.5812743823146944
+Epoch 1 - Accuracy: 0.5812743823146944
+Epoch 1 - Accuracy: 0.5812743823146944
+Epoch 1 - Accuracy: 0.5812743823146944
+Epoch 1 - Accuracy: 0.5812743823146944
+Epoch 1 - Save Best Score: 0.5813 Model
+Epoch 1 - Save Best Score: 0.5813 Model
+Epoch 1 - Save Best Score: 0.5813 Model
+Epoch 1 - Save Best Score: 0.5813 Model
+Epoch 1 - Save Best Score: 0.5813 Model
+Epoch 1 - Save Best Score: 0.5813 Model
+Epoch 2 - avg_train_loss: -0.1847  avg_val_loss: -0.2366  time: 156s
+Epoch 2 - avg_train_loss: -0.1847  avg_val_loss: -0.2366  time: 156s
+Epoch 2 - avg_train_loss: -0.1847  avg_val_loss: -0.2366  time: 156s
+Epoch 2 - avg_train_loss: -0.1847  avg_val_loss: -0.2366  time: 156s
+Epoch 2 - avg_train_loss: -0.1847  avg_val_loss: -0.2366  time: 156s
+Epoch 2 - avg_train_loss: -0.1847  avg_val_loss: -0.2366  time: 156s
+Epoch 2 - Accuracy: 0.6742522756827048
+Epoch 2 - Accuracy: 0.6742522756827048
+Epoch 2 - Accuracy: 0.6742522756827048
+Epoch 2 - Accuracy: 0.6742522756827048
+Epoch 2 - Accuracy: 0.6742522756827048
+Epoch 2 - Accuracy: 0.6742522756827048
+Epoch 2 - Save Best Score: 0.6743 Model
+Epoch 2 - Save Best Score: 0.6743 Model
+Epoch 2 - Save Best Score: 0.6743 Model
+Epoch 2 - Save Best Score: 0.6743 Model
+Epoch 2 - Save Best Score: 0.6743 Model
+Epoch 2 - Save Best Score: 0.6743 Model
+Epoch 3 - avg_train_loss: -0.2748  avg_val_loss: -0.3208  time: 153s
+Epoch 3 - avg_train_loss: -0.2748  avg_val_loss: -0.3208  time: 153s
+Epoch 3 - avg_train_loss: -0.2748  avg_val_loss: -0.3208  time: 153s
+Epoch 3 - avg_train_loss: -0.2748  avg_val_loss: -0.3208  time: 153s
+Epoch 3 - avg_train_loss: -0.2748  avg_val_loss: -0.3208  time: 153s
+Epoch 3 - avg_train_loss: -0.2748  avg_val_loss: -0.3208  time: 153s
+Epoch 3 - Accuracy: 0.764629388816645
+Epoch 3 - Accuracy: 0.764629388816645
+Epoch 3 - Accuracy: 0.764629388816645
+Epoch 3 - Accuracy: 0.764629388816645
+Epoch 3 - Accuracy: 0.764629388816645
+Epoch 3 - Accuracy: 0.764629388816645
+Epoch 3 - Save Best Score: 0.7646 Model
+Epoch 3 - Save Best Score: 0.7646 Model
+Epoch 3 - Save Best Score: 0.7646 Model
+Epoch 3 - Save Best Score: 0.7646 Model
+Epoch 3 - Save Best Score: 0.7646 Model
+Epoch 3 - Save Best Score: 0.7646 Model
+Epoch 4 - avg_train_loss: -0.3402  avg_val_loss: -0.3633  time: 153s
+Epoch 4 - avg_train_loss: -0.3402  avg_val_loss: -0.3633  time: 153s
+Epoch 4 - avg_train_loss: -0.3402  avg_val_loss: -0.3633  time: 153s
+Epoch 4 - avg_train_loss: -0.3402  avg_val_loss: -0.3633  time: 153s
+Epoch 4 - avg_train_loss: -0.3402  avg_val_loss: -0.3633  time: 153s
+Epoch 4 - avg_train_loss: -0.3402  avg_val_loss: -0.3633  time: 153s
+Epoch 4 - Accuracy: 0.7841352405721717
+Epoch 4 - Accuracy: 0.7841352405721717
+Epoch 4 - Accuracy: 0.7841352405721717
+Epoch 4 - Accuracy: 0.7841352405721717
+Epoch 4 - Accuracy: 0.7841352405721717
+Epoch 4 - Accuracy: 0.7841352405721717
+Epoch 4 - Save Best Score: 0.7841 Model
+Epoch 4 - Save Best Score: 0.7841 Model
+Epoch 4 - Save Best Score: 0.7841 Model
+Epoch 4 - Save Best Score: 0.7841 Model
+Epoch 4 - Save Best Score: 0.7841 Model
+Epoch 4 - Save Best Score: 0.7841 Model
+Epoch 5 - avg_train_loss: -0.3859  avg_val_loss: -0.3838  time: 151s
+Epoch 5 - avg_train_loss: -0.3859  avg_val_loss: -0.3838  time: 151s
+Epoch 5 - avg_train_loss: -0.3859  avg_val_loss: -0.3838  time: 151s
+Epoch 5 - avg_train_loss: -0.3859  avg_val_loss: -0.3838  time: 151s
+Epoch 5 - avg_train_loss: -0.3859  avg_val_loss: -0.3838  time: 151s
+Epoch 5 - avg_train_loss: -0.3859  avg_val_loss: -0.3838  time: 151s
+Epoch 5 - Accuracy: 0.7711313394018205
+Epoch 5 - Accuracy: 0.7711313394018205
+Epoch 5 - Accuracy: 0.7711313394018205
+Epoch 5 - Accuracy: 0.7711313394018205
+Epoch 5 - Accuracy: 0.7711313394018205
+Epoch 5 - Accuracy: 0.7711313394018205
+Epoch 6 - avg_train_loss: -0.4233  avg_val_loss: -0.4208  time: 146s
+Epoch 6 - avg_train_loss: -0.4233  avg_val_loss: -0.4208  time: 146s
+Epoch 6 - avg_train_loss: -0.4233  avg_val_loss: -0.4208  time: 146s
+Epoch 6 - avg_train_loss: -0.4233  avg_val_loss: -0.4208  time: 146s
+Epoch 6 - avg_train_loss: -0.4233  avg_val_loss: -0.4208  time: 146s
+Epoch 6 - avg_train_loss: -0.4233  avg_val_loss: -0.4208  time: 146s
+Epoch 6 - Accuracy: 0.7860858257477243
+Epoch 6 - Accuracy: 0.7860858257477243
+Epoch 6 - Accuracy: 0.7860858257477243
+Epoch 6 - Accuracy: 0.7860858257477243
+Epoch 6 - Accuracy: 0.7860858257477243
+Epoch 6 - Accuracy: 0.7860858257477243
+Epoch 6 - Save Best Score: 0.7861 Model
+Epoch 6 - Save Best Score: 0.7861 Model
+Epoch 6 - Save Best Score: 0.7861 Model
+Epoch 6 - Save Best Score: 0.7861 Model
+Epoch 6 - Save Best Score: 0.7861 Model
+Epoch 6 - Save Best Score: 0.7861 Model
+Epoch 7 - avg_train_loss: -0.4503  avg_val_loss: -0.4477  time: 152s
+Epoch 7 - avg_train_loss: -0.4503  avg_val_loss: -0.4477  time: 152s
+Epoch 7 - avg_train_loss: -0.4503  avg_val_loss: -0.4477  time: 152s
+Epoch 7 - avg_train_loss: -0.4503  avg_val_loss: -0.4477  time: 152s
+Epoch 7 - avg_train_loss: -0.4503  avg_val_loss: -0.4477  time: 152s
+Epoch 7 - avg_train_loss: -0.4503  avg_val_loss: -0.4477  time: 152s
+Epoch 7 - Accuracy: 0.8068920676202861
+Epoch 7 - Accuracy: 0.8068920676202861
+Epoch 7 - Accuracy: 0.8068920676202861
+Epoch 7 - Accuracy: 0.8068920676202861
+Epoch 7 - Accuracy: 0.8068920676202861
+Epoch 7 - Accuracy: 0.8068920676202861
+Epoch 7 - Save Best Score: 0.8069 Model
+Epoch 7 - Save Best Score: 0.8069 Model
+Epoch 7 - Save Best Score: 0.8069 Model
+Epoch 7 - Save Best Score: 0.8069 Model
+Epoch 7 - Save Best Score: 0.8069 Model
+Epoch 7 - Save Best Score: 0.8069 Model
+Epoch 8 - avg_train_loss: -0.4709  avg_val_loss: -0.4618  time: 151s
+Epoch 8 - avg_train_loss: -0.4709  avg_val_loss: -0.4618  time: 151s
+Epoch 8 - avg_train_loss: -0.4709  avg_val_loss: -0.4618  time: 151s
+Epoch 8 - avg_train_loss: -0.4709  avg_val_loss: -0.4618  time: 151s
+Epoch 8 - avg_train_loss: -0.4709  avg_val_loss: -0.4618  time: 151s
+Epoch 8 - avg_train_loss: -0.4709  avg_val_loss: -0.4618  time: 151s
+Epoch 8 - Accuracy: 0.8094928478543563
+Epoch 8 - Accuracy: 0.8094928478543563
+Epoch 8 - Accuracy: 0.8094928478543563
+Epoch 8 - Accuracy: 0.8094928478543563
+Epoch 8 - Accuracy: 0.8094928478543563
+Epoch 8 - Accuracy: 0.8094928478543563
+Epoch 8 - Save Best Score: 0.8095 Model
+Epoch 8 - Save Best Score: 0.8095 Model
+Epoch 8 - Save Best Score: 0.8095 Model
+Epoch 8 - Save Best Score: 0.8095 Model
+Epoch 8 - Save Best Score: 0.8095 Model
+Epoch 8 - Save Best Score: 0.8095 Model
+Epoch 9 - avg_train_loss: -0.4853  avg_val_loss: -0.4671  time: 142s
+Epoch 9 - avg_train_loss: -0.4853  avg_val_loss: -0.4671  time: 142s
+Epoch 9 - avg_train_loss: -0.4853  avg_val_loss: -0.4671  time: 142s
+Epoch 9 - avg_train_loss: -0.4853  avg_val_loss: -0.4671  time: 142s
+Epoch 9 - avg_train_loss: -0.4853  avg_val_loss: -0.4671  time: 142s
+Epoch 9 - avg_train_loss: -0.4853  avg_val_loss: -0.4671  time: 142s
+Epoch 9 - Accuracy: 0.812743823146944
+Epoch 9 - Accuracy: 0.812743823146944
+Epoch 9 - Accuracy: 0.812743823146944
+Epoch 9 - Accuracy: 0.812743823146944
+Epoch 9 - Accuracy: 0.812743823146944
+Epoch 9 - Accuracy: 0.812743823146944
+Epoch 9 - Save Best Score: 0.8127 Model
+Epoch 9 - Save Best Score: 0.8127 Model
+Epoch 9 - Save Best Score: 0.8127 Model
+Epoch 9 - Save Best Score: 0.8127 Model
+Epoch 9 - Save Best Score: 0.8127 Model
+Epoch 9 - Save Best Score: 0.8127 Model
+Epoch 10 - avg_train_loss: -0.4912  avg_val_loss: -0.4690  time: 144s
+Epoch 10 - avg_train_loss: -0.4912  avg_val_loss: -0.4690  time: 144s
+Epoch 10 - avg_train_loss: -0.4912  avg_val_loss: -0.4690  time: 144s
+Epoch 10 - avg_train_loss: -0.4912  avg_val_loss: -0.4690  time: 144s
+Epoch 10 - avg_train_loss: -0.4912  avg_val_loss: -0.4690  time: 144s
+Epoch 10 - avg_train_loss: -0.4912  avg_val_loss: -0.4690  time: 144s
+Epoch 10 - Accuracy: 0.8159947984395318
+Epoch 10 - Accuracy: 0.8159947984395318
+Epoch 10 - Accuracy: 0.8159947984395318
+Epoch 10 - Accuracy: 0.8159947984395318
+Epoch 10 - Accuracy: 0.8159947984395318
+Epoch 10 - Accuracy: 0.8159947984395318
+Epoch 10 - Save Best Score: 0.8160 Model
+Epoch 10 - Save Best Score: 0.8160 Model
+Epoch 10 - Save Best Score: 0.8160 Model
+Epoch 10 - Save Best Score: 0.8160 Model
+Epoch 10 - Save Best Score: 0.8160 Model
+Epoch 10 - Save Best Score: 0.8160 Model
+========== CV ==========
+========== CV ==========
+========== CV ==========
+========== CV ==========
+========== CV ==========
+========== CV ==========
+Score: 0.81599
+Score: 0.81599
+Score: 0.81599
+Score: 0.81599
+Score: 0.81599
+Score: 0.81599
+========== training ==========
+========== training ==========
+Epoch 1 - avg_train_loss: -0.7391  avg_val_loss: -0.7586  time: 47s
+Epoch 1 - avg_train_loss: -0.7391  avg_val_loss: -0.7586  time: 47s
+Epoch 1 - Accuracy: 0.8211963589076723
+Epoch 1 - Accuracy: 0.8211963589076723
+Epoch 1 - Save Best Score: 0.8212 Model
+Epoch 1 - Save Best Score: 0.8212 Model
+Epoch 2 - avg_train_loss: -0.7981  avg_val_loss: -0.7990  time: 49s
+Epoch 2 - avg_train_loss: -0.7981  avg_val_loss: -0.7990  time: 49s
+Epoch 2 - Accuracy: 0.8504551365409623
+Epoch 2 - Accuracy: 0.8504551365409623
+Epoch 2 - Save Best Score: 0.8505 Model
+Epoch 2 - Save Best Score: 0.8505 Model
+Epoch 3 - avg_train_loss: -0.8184  avg_val_loss: -0.8219  time: 45s
+Epoch 3 - avg_train_loss: -0.8184  avg_val_loss: -0.8219  time: 45s
+Epoch 3 - Accuracy: 0.8602080624187256
+Epoch 3 - Accuracy: 0.8602080624187256
+Epoch 3 - Save Best Score: 0.8602 Model
+Epoch 3 - Save Best Score: 0.8602 Model
+Epoch 4 - avg_train_loss: -0.8310  avg_val_loss: -0.8126  time: 46s
+Epoch 4 - avg_train_loss: -0.8310  avg_val_loss: -0.8126  time: 46s
+Epoch 4 - Accuracy: 0.8686605981794538
+Epoch 4 - Accuracy: 0.8686605981794538
+Epoch 4 - Save Best Score: 0.8687 Model
+Epoch 4 - Save Best Score: 0.8687 Model
+Epoch 5 - avg_train_loss: -0.8423  avg_val_loss: -0.8243  time: 50s
+Epoch 5 - avg_train_loss: -0.8423  avg_val_loss: -0.8243  time: 50s
+Epoch 5 - Accuracy: 0.871261378413524
+Epoch 5 - Accuracy: 0.871261378413524
+Epoch 5 - Save Best Score: 0.8713 Model
+Epoch 5 - Save Best Score: 0.8713 Model
+Epoch 6 - avg_train_loss: -0.8492  avg_val_loss: -0.8338  time: 53s
+Epoch 6 - avg_train_loss: -0.8492  avg_val_loss: -0.8338  time: 53s
+Epoch 6 - Accuracy: 0.8790637191157347
+Epoch 6 - Accuracy: 0.8790637191157347
+Epoch 6 - Save Best Score: 0.8791 Model
+Epoch 6 - Save Best Score: 0.8791 Model
+Epoch 7 - avg_train_loss: -0.8561  avg_val_loss: -0.8395  time: 50s
+Epoch 7 - avg_train_loss: -0.8561  avg_val_loss: -0.8395  time: 50s
+Epoch 7 - Accuracy: 0.8777633289986996
+Epoch 7 - Accuracy: 0.8777633289986996
+Epoch 8 - avg_train_loss: -0.8593  avg_val_loss: -0.8411  time: 49s
+Epoch 8 - avg_train_loss: -0.8593  avg_val_loss: -0.8411  time: 49s
+Epoch 8 - Accuracy: 0.8777633289986996
+Epoch 8 - Accuracy: 0.8777633289986996
+Epoch 9 - avg_train_loss: -0.8634  avg_val_loss: -0.8422  time: 49s
+Epoch 9 - avg_train_loss: -0.8634  avg_val_loss: -0.8422  time: 49s
+Epoch 9 - Accuracy: 0.8745123537061118
+Epoch 9 - Accuracy: 0.8745123537061118
+Epoch 10 - avg_train_loss: -0.8653  avg_val_loss: -0.8429  time: 49s
+Epoch 10 - avg_train_loss: -0.8653  avg_val_loss: -0.8429  time: 49s
+Epoch 10 - Accuracy: 0.8745123537061118
+Epoch 10 - Accuracy: 0.8745123537061118
+========== CV ==========
+========== CV ==========
+Score: 0.87906
+Score: 0.87906
