@@ -59,14 +59,14 @@ class CFG:
     device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
 
 
-train = pd.read_csv("/home/next/Quantum/Quantum-machine-learning-for-high-dimensional-data/input/rich_metadata.csv")
+train = pd.read_csv("/input/rich_metadata.csv")
 train.loc[train["hasbird"] == 0, "filepath"] = (
-    "/home/next/Quantum/Quantum-machine-learning-for-high-dimensional-data/input/nocall/"
+    "/input/nocall/"
     + train.query("hasbird==0")["filename"]
     + ".npy"
 )
 train.loc[train["hasbird"] == 1, "filepath"] = (
-    "/home/next/Quantum/Quantum-machine-learning-for-high-dimensional-data/input/bird/"
+    "/input/bird/"
     + train.query("hasbird==1")["filename"]
     + ".npy"
 )
