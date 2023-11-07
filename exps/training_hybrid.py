@@ -44,9 +44,9 @@ class CFG:
     # model_name= 'resnext101_32x8d'
     dim = (128, 281)
     scheduler = "CosineAnnealingWarmRestarts"
-    epochs = 20
-    lr=1e-4
-    #lr = 0.0005
+    epochs = 10
+    #lr=1e-4
+    lr = 0.0005
     T_0 = 10  # for CosineAnnealingWarmRestarts
     min_lr = 5e-7  # for CosineAnnealingWarmRestarts
     batch_size = 32
@@ -433,7 +433,7 @@ def train_loop(train_folds, valid_folds):
     best_score = 0.0
     best_loss = np.inf
 
-    summary(model, (3, 128, 128))
+    summary(model, (3, 128, 281))
 
     scores = []
 
@@ -505,10 +505,8 @@ def main(fold, num_iters=5):
         # save result
         oof_df.to_csv(OUTPUT_DIR + "oof_df.csv", index=False)
         
-        with open("training_hybrid.csv", "a") as f:
+        with open("training_hybrid_v2_nov_7th_2.csv", "a") as f:
             f.write(f"{fold},{i},{scores[-1]},{training_runtime[-1]}\n")
-            for score in scores:
-                f.write(f"{score}\n")  
         
         time.sleep(120)
         

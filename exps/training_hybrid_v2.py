@@ -43,9 +43,9 @@ class CFG:
     model_name = "resnext50_32x4d"
     dim = (128, 281)
     scheduler = "CosineAnnealingWarmRestarts"
-    epochs = 15
+    epochs = 20
     #lr=1e-4
-    lr = 0.0005
+    lr = 0.001
     T_0 = 10  # for CosineAnnealingWarmRestarts
     min_lr = 5e-7  # for CosineAnnealingWarmRestarts
     batch_size = 32
@@ -226,16 +226,19 @@ class QuantumCustomResNext(nn.Module):
     def __init__(self, model_name="resnext50_32x4d", pretrained=True):
         super().__init__()
         self.model = timm.create_model(model_name, pretrained=pretrained)
-        self.fc = nn.Linear(2048, nq)
+        self.fc = nn.Linear(512, 32)
+        self.fc2 = nn.Linear(32, nq)
         self.qnn = TorchConnector(qnn)
         # Remove fully connected layer and last two blocks
         self.model.fc = nn.Identity()
-        # self.model.layer4 = nn.Identity()
-        # self.model.layer3 = nn.Identity()
+        self.model.layer4 = nn.Identity()
+        self.model.layer3 = nn.Identity()
+        #self.model.layer2 = nn.Identity()
 
     def forward(self, x):
         x = self.model(x)
         x = self.fc(x)
+        x = self.fc2(x)
         x = self.qnn(x)
 
         return x
@@ -430,8 +433,8 @@ def train_loop(train_folds, valid_folds):
     # ====================================================
     # loop
     # ====================================================
-    criterion = nn.CrossEntropyLoss()
-    #criterion = nn.NLLLoss()
+    #criterion = nn.CrossEntropyLoss()
+    criterion = nn.NLLLoss()
     best_score = 0.0
     best_loss = np.inf
 
@@ -439,7 +442,6 @@ def train_loop(train_folds, valid_folds):
 
     for epoch in range(CFG.epochs):
         start_time = time.time()
-        optimizer.zero_grad(set_to_none=True)
         # train
         avg_loss = train_fn(train_loader, model, criterion, optimizer, epoch, optimizer, CFG.device)
 
@@ -468,7 +470,7 @@ def train_loop(train_folds, valid_folds):
             torch.save({"model": model.state_dict(), "preds": preds}, OUTPUT_DIR + f"{CFG.model_name}_best.pth")
             
         # Pause the training for 60 sec
-        time.sleep(120)
+        #time.sleep(120)
 
     check_point = torch.load(OUTPUT_DIR + f"{CFG.model_name}_best.pth")
     valid_folds[[str(c) for c in range(CFG.target_size)]] = check_point["preds"]
@@ -512,7 +514,7 @@ def main(fold, num_iters=1):
         with open("training_hybrid_v2.csv", "a") as f:
             f.write(f"{fold},{i},{scores[-1]},{training_runtime[-1]}\n")
         
-        time.sleep(120)
+        #time.sleep(180)
         
         """
         plt.plot([i for i in range(CFG.epochs)], scores)
