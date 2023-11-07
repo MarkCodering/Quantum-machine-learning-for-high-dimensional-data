@@ -59,14 +59,14 @@ class CFG:
     device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
 
 
-train = pd.read_csv("/input/rich_metadata.csv")
+train = pd.read_csv("../input/rich_metadata.csv")
 train.loc[train["hasbird"] == 0, "filepath"] = (
-    "/input/nocall/"
+    "../input/nocall/"
     + train.query("hasbird==0")["filename"]
     + ".npy"
 )
 train.loc[train["hasbird"] == 1, "filepath"] = (
-    "/input/bird/"
+    "../input/bird/"
     + train.query("hasbird==1")["filename"]
     + ".npy"
 )
