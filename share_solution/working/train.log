@@ -2602,3 +2602,857 @@ Epoch 9 - avg_train_loss: 0.8644  avg_val_loss: 0.8871  time: 100s
 Epoch 9 - Accuracy: 0.8738621586475943
 Epoch 10 - avg_train_loss: 0.8631  avg_val_loss: 0.8860  time: 102s
 Epoch 10 - Accuracy: 0.8758127438231469
+========== training ==========
+========== training ==========
+========== training ==========
+Epoch 1 - avg_train_loss: 1.6224  avg_val_loss: 1.4954  time: 177s
+Epoch 1 - avg_train_loss: 1.6224  avg_val_loss: 1.4954  time: 177s
+Epoch 1 - Accuracy: 0.8302990897269181
+Epoch 1 - Accuracy: 0.8302990897269181
+Epoch 1 - Save Best Score: 0.8303 Model
+Epoch 1 - Save Best Score: 0.8303 Model
+Epoch 2 - avg_train_loss: 1.4744  avg_val_loss: 1.5081  time: 177s
+Epoch 2 - avg_train_loss: 1.4744  avg_val_loss: 1.5081  time: 177s
+Epoch 2 - Accuracy: 0.8107932379713915
+Epoch 2 - Accuracy: 0.8107932379713915
+Epoch 3 - avg_train_loss: 1.4461  avg_val_loss: 1.4844  time: 165s
+Epoch 3 - avg_train_loss: 1.4461  avg_val_loss: 1.4844  time: 165s
+Epoch 3 - Accuracy: 0.8198959687906372
+Epoch 3 - Accuracy: 0.8198959687906372
+========== training ==========
+Epoch 1 - avg_train_loss: 1.5724  avg_val_loss: 1.5062  time: 183s
+Epoch 1 - Accuracy: 0.8322496749024707
+Epoch 1 - Save Best Score: 0.8322 Model
+Epoch 2 - avg_train_loss: 1.4643  avg_val_loss: 1.4610  time: 171s
+Epoch 2 - Accuracy: 0.8459037711313394
+Epoch 2 - Save Best Score: 0.8459 Model
+Epoch 3 - avg_train_loss: 1.4436  avg_val_loss: 1.4469  time: 183s
+Epoch 3 - Accuracy: 0.8517555266579974
+Epoch 3 - Save Best Score: 0.8518 Model
+========== training ==========
+Epoch 1 - avg_train_loss: 1.5724  avg_val_loss: 1.5062  time: 186s
+Epoch 1 - Accuracy: 0.8322496749024707
+Epoch 1 - Save Best Score: 0.8322 Model
+Epoch 2 - avg_train_loss: 1.4643  avg_val_loss: 1.4610  time: 191s
+Epoch 2 - Accuracy: 0.8459037711313394
+Epoch 2 - Save Best Score: 0.8459 Model
+Epoch 3 - avg_train_loss: 1.4436  avg_val_loss: 1.4469  time: 189s
+Epoch 3 - Accuracy: 0.8517555266579974
+Epoch 3 - Save Best Score: 0.8518 Model
+Epoch 4 - avg_train_loss: 1.4310  avg_val_loss: 1.4478  time: 173s
+Epoch 4 - Accuracy: 0.8582574772431729
+Epoch 4 - Save Best Score: 0.8583 Model
+Epoch 5 - avg_train_loss: 1.4221  avg_val_loss: 1.4338  time: 183s
+Epoch 5 - Accuracy: 0.8654096228868661
+Epoch 5 - Save Best Score: 0.8654 Model
+Epoch 6 - avg_train_loss: 1.4154  avg_val_loss: 1.4313  time: 198s
+Epoch 6 - Accuracy: 0.8680104031209362
+Epoch 6 - Save Best Score: 0.8680 Model
+Epoch 7 - avg_train_loss: 1.4105  avg_val_loss: 1.4261  time: 170s
+Epoch 7 - Accuracy: 0.8706111833550065
+Epoch 7 - Save Best Score: 0.8706 Model
+Epoch 8 - avg_train_loss: 1.4054  avg_val_loss: 1.4250  time: 190s
+Epoch 8 - Accuracy: 0.8706111833550065
+Epoch 9 - avg_train_loss: 1.4030  avg_val_loss: 1.4240  time: 204s
+Epoch 9 - Accuracy: 0.871261378413524
+Epoch 9 - Save Best Score: 0.8713 Model
+Epoch 10 - avg_train_loss: 1.4012  avg_val_loss: 1.4231  time: 197s
+Epoch 10 - Accuracy: 0.8732119635890767
+Epoch 10 - Save Best Score: 0.8732 Model
+========== CV ==========
+========== training ==========
+========== training ==========
+========== training ==========
+========== training ==========
+========== training ==========
+========== training ==========
+========== training ==========
+========== training ==========
+========== training ==========
+========== training ==========
+========== training ==========
+========== training ==========
+========== training ==========
+========== training ==========
+========== training ==========
+========== training ==========
+========== training ==========
+========== training ==========
+========== training ==========
+========== training ==========
+========== training ==========
+========== training ==========
+========== training ==========
+========== training ==========
+========== training ==========
+Epoch 1 - avg_train_loss: 0.9508  avg_val_loss: 0.9114  time: 235s
+Epoch 1 - avg_train_loss: 0.9508  avg_val_loss: 0.9114  time: 235s
+Epoch 1 - avg_train_loss: 0.9508  avg_val_loss: 0.9114  time: 235s
+Epoch 1 - avg_train_loss: 0.9508  avg_val_loss: 0.9114  time: 235s
+Epoch 1 - avg_train_loss: 0.9508  avg_val_loss: 0.9114  time: 235s
+Epoch 1 - avg_train_loss: 0.9508  avg_val_loss: 0.9114  time: 235s
+Epoch 1 - avg_train_loss: 0.9508  avg_val_loss: 0.9114  time: 235s
+Epoch 1 - avg_train_loss: 0.9508  avg_val_loss: 0.9114  time: 235s
+Epoch 1 - avg_train_loss: 0.9508  avg_val_loss: 0.9114  time: 235s
+Epoch 1 - avg_train_loss: 0.9508  avg_val_loss: 0.9114  time: 235s
+Epoch 1 - Accuracy: 0.8374512353706112
+Epoch 1 - Accuracy: 0.8374512353706112
+Epoch 1 - Accuracy: 0.8374512353706112
+Epoch 1 - Accuracy: 0.8374512353706112
+Epoch 1 - Accuracy: 0.8374512353706112
+Epoch 1 - Accuracy: 0.8374512353706112
+Epoch 1 - Accuracy: 0.8374512353706112
+Epoch 1 - Accuracy: 0.8374512353706112
+Epoch 1 - Accuracy: 0.8374512353706112
+Epoch 1 - Accuracy: 0.8374512353706112
+Epoch 1 - Save Best Score: 0.8375 Model
+Epoch 1 - Save Best Score: 0.8375 Model
+Epoch 1 - Save Best Score: 0.8375 Model
+Epoch 1 - Save Best Score: 0.8375 Model
+Epoch 1 - Save Best Score: 0.8375 Model
+Epoch 1 - Save Best Score: 0.8375 Model
+Epoch 1 - Save Best Score: 0.8375 Model
+Epoch 1 - Save Best Score: 0.8375 Model
+Epoch 1 - Save Best Score: 0.8375 Model
+Epoch 1 - Save Best Score: 0.8375 Model
+========== training ==========
+========== training ==========
+========== training ==========
+========== training ==========
+========== training ==========
+Epoch 1 - avg_train_loss: 0.9533  avg_val_loss: 0.9210  time: 302s
+Epoch 1 - avg_train_loss: 0.9533  avg_val_loss: 0.9210  time: 302s
+Epoch 1 - Accuracy: 0.8517555266579974
+Epoch 1 - Accuracy: 0.8517555266579974
+Epoch 1 - Save Best Score: 0.8518 Model
+Epoch 1 - Save Best Score: 0.8518 Model
+Epoch 2 - avg_train_loss: 0.9094  avg_val_loss: 0.9005  time: 306s
+Epoch 2 - avg_train_loss: 0.9094  avg_val_loss: 0.9005  time: 306s
+Epoch 2 - Accuracy: 0.8608582574772432
+Epoch 2 - Accuracy: 0.8608582574772432
+Epoch 2 - Save Best Score: 0.8609 Model
+Epoch 2 - Save Best Score: 0.8609 Model
+Epoch 3 - avg_train_loss: 0.8883  avg_val_loss: 0.8917  time: 309s
+Epoch 3 - avg_train_loss: 0.8883  avg_val_loss: 0.8917  time: 309s
+Epoch 3 - Accuracy: 0.8667100130039012
+Epoch 3 - Accuracy: 0.8667100130039012
+Epoch 3 - Save Best Score: 0.8667 Model
+Epoch 3 - Save Best Score: 0.8667 Model
+Epoch 4 - avg_train_loss: 0.8735  avg_val_loss: 0.8800  time: 306s
+Epoch 4 - avg_train_loss: 0.8735  avg_val_loss: 0.8800  time: 306s
+Epoch 4 - Accuracy: 0.8738621586475943
+Epoch 4 - Accuracy: 0.8738621586475943
+Epoch 4 - Save Best Score: 0.8739 Model
+Epoch 4 - Save Best Score: 0.8739 Model
+Epoch 5 - avg_train_loss: 0.8643  avg_val_loss: 0.8757  time: 330s
+Epoch 5 - avg_train_loss: 0.8643  avg_val_loss: 0.8757  time: 330s
+Epoch 5 - Accuracy: 0.8751625487646294
+Epoch 5 - Accuracy: 0.8751625487646294
+Epoch 5 - Save Best Score: 0.8752 Model
+Epoch 5 - Save Best Score: 0.8752 Model
+Epoch 6 - avg_train_loss: 0.8561  avg_val_loss: 0.8717  time: 300s
+Epoch 6 - avg_train_loss: 0.8561  avg_val_loss: 0.8717  time: 300s
+Epoch 6 - Accuracy: 0.881664499349805
+Epoch 6 - Accuracy: 0.881664499349805
+Epoch 6 - Save Best Score: 0.8817 Model
+Epoch 6 - Save Best Score: 0.8817 Model
+Epoch 7 - avg_train_loss: 0.8503  avg_val_loss: 0.8708  time: 255s
+Epoch 7 - avg_train_loss: 0.8503  avg_val_loss: 0.8708  time: 255s
+Epoch 7 - Accuracy: 0.8836150845253576
+Epoch 7 - Accuracy: 0.8836150845253576
+Epoch 7 - Save Best Score: 0.8836 Model
+Epoch 7 - Save Best Score: 0.8836 Model
+Epoch 8 - avg_train_loss: 0.8457  avg_val_loss: 0.8687  time: 253s
+Epoch 8 - avg_train_loss: 0.8457  avg_val_loss: 0.8687  time: 253s
+Epoch 8 - Accuracy: 0.8842652795838751
+Epoch 8 - Accuracy: 0.8842652795838751
+Epoch 8 - Save Best Score: 0.8843 Model
+Epoch 8 - Save Best Score: 0.8843 Model
+Epoch 9 - avg_train_loss: 0.8429  avg_val_loss: 0.8680  time: 267s
+Epoch 9 - avg_train_loss: 0.8429  avg_val_loss: 0.8680  time: 267s
+Epoch 9 - Accuracy: 0.881664499349805
+Epoch 9 - Accuracy: 0.881664499349805
+Epoch 10 - avg_train_loss: 0.8401  avg_val_loss: 0.8675  time: 266s
+Epoch 10 - avg_train_loss: 0.8401  avg_val_loss: 0.8675  time: 266s
+Epoch 10 - Accuracy: 0.8836150845253576
+Epoch 10 - Accuracy: 0.8836150845253576
+========== CV ==========
+========== CV ==========
+========== training ==========
+========== training ==========
+========== training ==========
+========== training ==========
+========== training ==========
+========== training ==========
+========== training ==========
+========== training ==========
+========== training ==========
+========== training ==========
+========== training ==========
+========== training ==========
+========== training ==========
+========== training ==========
+========== training ==========
+========== training ==========
+========== training ==========
+========== training ==========
+========== training ==========
+========== training ==========
+========== training ==========
+========== training ==========
+========== training ==========
+========== training ==========
+========== training ==========
+========== training ==========
+========== training ==========
+========== training ==========
+========== training ==========
+========== training ==========
+========== training ==========
+========== training ==========
+========== training ==========
+========== training ==========
+========== training ==========
+========== training ==========
+========== training ==========
+========== training ==========
+========== training ==========
+========== training ==========
+========== training ==========
+========== training ==========
+========== training ==========
+========== training ==========
+========== training ==========
+========== training ==========
+========== training ==========
+========== training ==========
+========== training ==========
+========== training ==========
+========== training ==========
+========== training ==========
+========== training ==========
+========== training ==========
+========== training ==========
+========== training ==========
+========== training ==========
+========== training ==========
+========== training ==========
+========== training ==========
+========== training ==========
+========== training ==========
+========== training ==========
+========== training ==========
+========== training ==========
+========== training ==========
+========== training ==========
+========== training ==========
+========== training ==========
+========== training ==========
+========== training ==========
+========== training ==========
+========== training ==========
+========== training ==========
+========== training ==========
+========== training ==========
+========== training ==========
+========== training ==========
+========== training ==========
+========== training ==========
+========== training ==========
+========== training ==========
+========== training ==========
+========== training ==========
+========== training ==========
+========== training ==========
+========== training ==========
+========== training ==========
+========== training ==========
+========== training ==========
+========== training ==========
+========== training ==========
+========== training ==========
+========== training ==========
+========== training ==========
+========== training ==========
+========== training ==========
+========== training ==========
+========== training ==========
+========== training ==========
+========== training ==========
+========== training ==========
+========== training ==========
+========== training ==========
+========== training ==========
+========== training ==========
+========== training ==========
+========== training ==========
+========== training ==========
+========== training ==========
+========== training ==========
+========== training ==========
+========== training ==========
+========== training ==========
+========== training ==========
+========== training ==========
+========== training ==========
+========== training ==========
+========== training ==========
+========== training ==========
+========== training ==========
+========== training ==========
+========== training ==========
+========== training ==========
+========== training ==========
+========== training ==========
+========== training ==========
+========== training ==========
+========== training ==========
+========== training ==========
+========== training ==========
+========== training ==========
+========== training ==========
+========== training ==========
+========== training ==========
+========== training ==========
+========== training ==========
+========== training ==========
+========== training ==========
+========== training ==========
+========== training ==========
+========== training ==========
+========== training ==========
+========== training ==========
+========== training ==========
+========== training ==========
+========== training ==========
+========== training ==========
+========== training ==========
+========== training ==========
+========== training ==========
+========== training ==========
+========== training ==========
+========== training ==========
+========== training ==========
+========== training ==========
+========== training ==========
+========== training ==========
+========== training ==========
+========== training ==========
+========== training ==========
+========== training ==========
+========== training ==========
+========== training ==========
+========== training ==========
+========== training ==========
+========== training ==========
+========== training ==========
+========== training ==========
+========== training ==========
+========== training ==========
+========== training ==========
+========== training ==========
+========== training ==========
+========== training ==========
+========== training ==========
+========== training ==========
+========== training ==========
+========== training ==========
+========== training ==========
+========== training ==========
+========== training ==========
+========== training ==========
+========== training ==========
+========== training ==========
+========== training ==========
+========== training ==========
+========== training ==========
+========== training ==========
+========== training ==========
+========== training ==========
+========== training ==========
+========== training ==========
+========== training ==========
+========== training ==========
+========== training ==========
+========== training ==========
+========== training ==========
+========== training ==========
+========== training ==========
+========== training ==========
+========== training ==========
+========== training ==========
+========== training ==========
+========== training ==========
+========== training ==========
+========== training ==========
+========== training ==========
+========== training ==========
+========== training ==========
+========== training ==========
+========== training ==========
+========== training ==========
+========== training ==========
+========== training ==========
+========== training ==========
+========== training ==========
+========== training ==========
+========== training ==========
+========== training ==========
+========== training ==========
+========== training ==========
+========== training ==========
+========== training ==========
+========== training ==========
+========== training ==========
+========== training ==========
+========== training ==========
+========== training ==========
+========== training ==========
+========== training ==========
+========== training ==========
+========== training ==========
+========== training ==========
+========== training ==========
+========== training ==========
+========== training ==========
+========== training ==========
+========== training ==========
+========== training ==========
+========== training ==========
+========== training ==========
+========== training ==========
+========== training ==========
+========== training ==========
+========== training ==========
+========== training ==========
+========== training ==========
+========== training ==========
+========== training ==========
+========== training ==========
+========== training ==========
+========== training ==========
+========== training ==========
+========== training ==========
+========== training ==========
+========== training ==========
+========== training ==========
+========== training ==========
+========== training ==========
+========== training ==========
+========== training ==========
+========== training ==========
+========== training ==========
+========== training ==========
+========== training ==========
+========== training ==========
+========== training ==========
+========== training ==========
+========== training ==========
+========== training ==========
+========== training ==========
+========== training ==========
+========== training ==========
+========== training ==========
+========== training ==========
+========== training ==========
+========== training ==========
+========== training ==========
+========== training ==========
+========== training ==========
+========== training ==========
+========== training ==========
+========== training ==========
+========== training ==========
+========== training ==========
+========== training ==========
+========== training ==========
+========== training ==========
+========== training ==========
+========== training ==========
+========== training ==========
+========== training ==========
+========== training ==========
+========== training ==========
+========== training ==========
+========== training ==========
+========== training ==========
+========== training ==========
+========== training ==========
+========== training ==========
+========== training ==========
+========== training ==========
+========== training ==========
+========== training ==========
+========== training ==========
+========== training ==========
+========== training ==========
+========== training ==========
+========== training ==========
+========== training ==========
+========== training ==========
+========== training ==========
+========== training ==========
+========== training ==========
+========== training ==========
+========== training ==========
+========== training ==========
+========== training ==========
+========== training ==========
+========== training ==========
+========== training ==========
+========== training ==========
+========== training ==========
+========== training ==========
+========== training ==========
+========== training ==========
+========== training ==========
+========== training ==========
+========== training ==========
+========== training ==========
+========== training ==========
+========== training ==========
+========== training ==========
+========== training ==========
+========== training ==========
+========== training ==========
+========== training ==========
+========== training ==========
+========== training ==========
+========== training ==========
+========== training ==========
+========== training ==========
+========== training ==========
+========== training ==========
+========== training ==========
+========== training ==========
+========== training ==========
+========== training ==========
+========== training ==========
+========== training ==========
+========== training ==========
+========== training ==========
+========== training ==========
+========== training ==========
+========== training ==========
+========== training ==========
+========== training ==========
+========== training ==========
+========== training ==========
+========== training ==========
+========== training ==========
+========== training ==========
+========== training ==========
+========== training ==========
+========== training ==========
+========== training ==========
+========== training ==========
+========== training ==========
+========== training ==========
+========== training ==========
+========== training ==========
+========== training ==========
+========== training ==========
+========== training ==========
+========== training ==========
+Epoch 1 - avg_train_loss: 1.5119  avg_val_loss: 1.4699  time: 1001s
+Epoch 1 - avg_train_loss: 1.5119  avg_val_loss: 1.4699  time: 1001s
+Epoch 1 - avg_train_loss: 1.5119  avg_val_loss: 1.4699  time: 1001s
+Epoch 1 - Accuracy: 0.834850455136541
+Epoch 1 - Accuracy: 0.834850455136541
+Epoch 1 - Accuracy: 0.834850455136541
+Epoch 1 - Save Best Score: 0.8349 Model
+Epoch 1 - Save Best Score: 0.8349 Model
+Epoch 1 - Save Best Score: 0.8349 Model
+Epoch 2 - avg_train_loss: 1.4458  avg_val_loss: 1.4509  time: 990s
+Epoch 2 - avg_train_loss: 1.4458  avg_val_loss: 1.4509  time: 990s
+Epoch 2 - avg_train_loss: 1.4458  avg_val_loss: 1.4509  time: 990s
+Epoch 2 - Accuracy: 0.8589076723016905
+Epoch 2 - Accuracy: 0.8589076723016905
+Epoch 2 - Accuracy: 0.8589076723016905
+Epoch 2 - Save Best Score: 0.8589 Model
+Epoch 2 - Save Best Score: 0.8589 Model
+Epoch 2 - Save Best Score: 0.8589 Model
+Epoch 3 - avg_train_loss: 1.4246  avg_val_loss: 1.4336  time: 991s
+Epoch 3 - avg_train_loss: 1.4246  avg_val_loss: 1.4336  time: 991s
+Epoch 3 - avg_train_loss: 1.4246  avg_val_loss: 1.4336  time: 991s
+Epoch 3 - Accuracy: 0.8530559167750326
+Epoch 3 - Accuracy: 0.8530559167750326
+Epoch 3 - Accuracy: 0.8530559167750326
+Epoch 4 - avg_train_loss: 1.4131  avg_val_loss: 1.4314  time: 1000s
+Epoch 4 - avg_train_loss: 1.4131  avg_val_loss: 1.4314  time: 1000s
+Epoch 4 - avg_train_loss: 1.4131  avg_val_loss: 1.4314  time: 1000s
+Epoch 4 - Accuracy: 0.8621586475942783
+Epoch 4 - Accuracy: 0.8621586475942783
+Epoch 4 - Accuracy: 0.8621586475942783
+Epoch 4 - Save Best Score: 0.8622 Model
+Epoch 4 - Save Best Score: 0.8622 Model
+Epoch 4 - Save Best Score: 0.8622 Model
+Epoch 5 - avg_train_loss: 1.4034  avg_val_loss: 1.4190  time: 1103s
+Epoch 5 - avg_train_loss: 1.4034  avg_val_loss: 1.4190  time: 1103s
+Epoch 5 - avg_train_loss: 1.4034  avg_val_loss: 1.4190  time: 1103s
+Epoch 5 - Accuracy: 0.871261378413524
+Epoch 5 - Accuracy: 0.871261378413524
+Epoch 5 - Accuracy: 0.871261378413524
+Epoch 5 - Save Best Score: 0.8713 Model
+Epoch 5 - Save Best Score: 0.8713 Model
+Epoch 5 - Save Best Score: 0.8713 Model
+Epoch 6 - avg_train_loss: 1.3973  avg_val_loss: 1.4247  time: 1021s
+Epoch 6 - avg_train_loss: 1.3973  avg_val_loss: 1.4247  time: 1021s
+Epoch 6 - avg_train_loss: 1.3973  avg_val_loss: 1.4247  time: 1021s
+Epoch 6 - Accuracy: 0.8699609882964889
+Epoch 6 - Accuracy: 0.8699609882964889
+Epoch 6 - Accuracy: 0.8699609882964889
+Epoch 7 - avg_train_loss: 1.3918  avg_val_loss: 1.4216  time: 986s
+Epoch 7 - avg_train_loss: 1.3918  avg_val_loss: 1.4216  time: 986s
+Epoch 7 - avg_train_loss: 1.3918  avg_val_loss: 1.4216  time: 986s
+Epoch 7 - Accuracy: 0.8706111833550065
+Epoch 7 - Accuracy: 0.8706111833550065
+Epoch 7 - Accuracy: 0.8706111833550065
+Epoch 8 - avg_train_loss: 1.3892  avg_val_loss: 1.4211  time: 982s
+Epoch 8 - avg_train_loss: 1.3892  avg_val_loss: 1.4211  time: 982s
+Epoch 8 - avg_train_loss: 1.3892  avg_val_loss: 1.4211  time: 982s
+Epoch 8 - Accuracy: 0.8725617685305592
+Epoch 8 - Accuracy: 0.8725617685305592
+Epoch 8 - Accuracy: 0.8725617685305592
+Epoch 8 - Save Best Score: 0.8726 Model
+Epoch 8 - Save Best Score: 0.8726 Model
+Epoch 8 - Save Best Score: 0.8726 Model
+Epoch 9 - avg_train_loss: 1.3861  avg_val_loss: 1.4210  time: 988s
+Epoch 9 - avg_train_loss: 1.3861  avg_val_loss: 1.4210  time: 988s
+Epoch 9 - avg_train_loss: 1.3861  avg_val_loss: 1.4210  time: 988s
+Epoch 9 - Accuracy: 0.8706111833550065
+Epoch 9 - Accuracy: 0.8706111833550065
+Epoch 9 - Accuracy: 0.8706111833550065
+Epoch 10 - avg_train_loss: 1.3848  avg_val_loss: 1.4191  time: 987s
+Epoch 10 - avg_train_loss: 1.3848  avg_val_loss: 1.4191  time: 987s
+Epoch 10 - avg_train_loss: 1.3848  avg_val_loss: 1.4191  time: 987s
+Epoch 10 - Accuracy: 0.8758127438231469
+Epoch 10 - Accuracy: 0.8758127438231469
+Epoch 10 - Accuracy: 0.8758127438231469
+Epoch 10 - Save Best Score: 0.8758 Model
+Epoch 10 - Save Best Score: 0.8758 Model
+Epoch 10 - Save Best Score: 0.8758 Model
+========== CV ==========
+========== CV ==========
+========== CV ==========
+========== training ==========
+Epoch 1 - avg_train_loss: 0.5188  avg_val_loss: 0.4699  time: 52s
+Epoch 1 - Accuracy: 0.8569570871261378
+Epoch 1 - Save Best Score: 0.8570 Model
+Epoch 2 - avg_train_loss: 0.4647  avg_val_loss: 0.4497  time: 49s
+Epoch 2 - Accuracy: 0.8719115734720416
+Epoch 2 - Save Best Score: 0.8719 Model
+Epoch 3 - avg_train_loss: 0.4438  avg_val_loss: 0.4442  time: 49s
+Epoch 3 - Accuracy: 0.8751625487646294
+Epoch 3 - Save Best Score: 0.8752 Model
+Epoch 4 - avg_train_loss: 0.4290  avg_val_loss: 0.4361  time: 49s
+Epoch 4 - Accuracy: 0.8842652795838751
+Epoch 4 - Save Best Score: 0.8843 Model
+Epoch 5 - avg_train_loss: 0.4222  avg_val_loss: 0.4336  time: 49s
+Epoch 5 - Accuracy: 0.8875162548764629
+Epoch 5 - Save Best Score: 0.8875 Model
+Epoch 6 - avg_train_loss: 0.4172  avg_val_loss: 0.4656  time: 50s
+Epoch 6 - Accuracy: 0.8699609882964889
+Epoch 7 - avg_train_loss: 0.4057  avg_val_loss: 0.4337  time: 50s
+Epoch 7 - Accuracy: 0.8901170351105332
+Epoch 7 - Save Best Score: 0.8901 Model
+Epoch 8 - avg_train_loss: 0.3960  avg_val_loss: 0.4289  time: 48s
+Epoch 8 - Accuracy: 0.8972691807542262
+Epoch 8 - Save Best Score: 0.8973 Model
+Epoch 9 - avg_train_loss: 0.3874  avg_val_loss: 0.4256  time: 49s
+Epoch 9 - Accuracy: 0.8966189856957087
+Epoch 10 - avg_train_loss: 0.3837  avg_val_loss: 0.4243  time: 48s
+Epoch 10 - Accuracy: 0.8940182054616385
+Epoch 11 - avg_train_loss: 0.4135  avg_val_loss: 0.4649  time: 48s
+Epoch 11 - Accuracy: 0.8745123537061118
+Epoch 12 - avg_train_loss: 0.4106  avg_val_loss: 0.4496  time: 49s
+Epoch 12 - Accuracy: 0.888816644993498
+Epoch 13 - avg_train_loss: 0.4032  avg_val_loss: 0.4421  time: 47s
+Epoch 13 - Accuracy: 0.8875162548764629
+Epoch 14 - avg_train_loss: 0.3950  avg_val_loss: 0.4519  time: 53s
+Epoch 14 - Accuracy: 0.8686605981794538
+Epoch 15 - avg_train_loss: 0.3895  avg_val_loss: 0.4315  time: 49s
+Epoch 15 - Accuracy: 0.8868660598179454
+========== CV ==========
+Score: 0.89727
+========== training ==========
+========== training ==========
+Epoch 1 - avg_train_loss: 0.5148  avg_val_loss: 0.5039  time: 46s
+Epoch 1 - avg_train_loss: 0.5148  avg_val_loss: 0.5039  time: 46s
+Epoch 1 - Accuracy: 0.8270481144343304
+Epoch 1 - Accuracy: 0.8270481144343304
+Epoch 1 - Save Best Score: 0.8270 Model
+Epoch 1 - Save Best Score: 0.8270 Model
+========== training ==========
+Epoch 1 - avg_train_loss: 0.5192  avg_val_loss: 0.5048  time: 45s
+Epoch 1 - Accuracy: 0.8250975292587777
+Epoch 1 - Save Best Score: 0.8251 Model
+========== training ==========
+Epoch 1 - avg_train_loss: 0.5189  avg_val_loss: 0.4783  time: 42s
+Epoch 1 - Accuracy: 0.8478543563068921
+Epoch 1 - Save Best Score: 0.8479 Model
+Epoch 2 - avg_train_loss: 0.4629  avg_val_loss: 0.4709  time: 43s
+Epoch 2 - Accuracy: 0.8634590377113134
+Epoch 2 - Save Best Score: 0.8635 Model
+Epoch 3 - avg_train_loss: 0.4417  avg_val_loss: 0.4488  time: 44s
+Epoch 3 - Accuracy: 0.8751625487646294
+Epoch 3 - Save Best Score: 0.8752 Model
+Epoch 4 - avg_train_loss: 0.4310  avg_val_loss: 0.4416  time: 44s
+Epoch 4 - Accuracy: 0.8732119635890767
+Epoch 5 - avg_train_loss: 0.4243  avg_val_loss: 0.4483  time: 46s
+Epoch 5 - Accuracy: 0.8803641092327699
+Epoch 5 - Save Best Score: 0.8804 Model
+Epoch 6 - avg_train_loss: 0.4167  avg_val_loss: 0.4696  time: 47s
+Epoch 6 - Accuracy: 0.8621586475942783
+Epoch 7 - avg_train_loss: 0.4050  avg_val_loss: 0.4295  time: 47s
+Epoch 7 - Accuracy: 0.8940182054616385
+Epoch 7 - Save Best Score: 0.8940 Model
+Epoch 8 - avg_train_loss: 0.3965  avg_val_loss: 0.4308  time: 46s
+Epoch 8 - Accuracy: 0.8979193758127438
+Epoch 8 - Save Best Score: 0.8979 Model
+Epoch 9 - avg_train_loss: 0.3903  avg_val_loss: 0.4255  time: 45s
+Epoch 9 - Accuracy: 0.8998699609882965
+Epoch 9 - Save Best Score: 0.8999 Model
+Epoch 10 - avg_train_loss: 0.3853  avg_val_loss: 0.4249  time: 45s
+Epoch 10 - Accuracy: 0.8972691807542262
+Epoch 11 - avg_train_loss: 0.4108  avg_val_loss: 0.4380  time: 47s
+Epoch 11 - Accuracy: 0.8823146944083224
+Epoch 12 - avg_train_loss: 0.4059  avg_val_loss: 0.4327  time: 48s
+Epoch 12 - Accuracy: 0.8868660598179454
+Epoch 13 - avg_train_loss: 0.4012  avg_val_loss: 0.4342  time: 43s
+Epoch 13 - Accuracy: 0.8920676202860858
+Epoch 14 - avg_train_loss: 0.3944  avg_val_loss: 0.4412  time: 44s
+Epoch 14 - Accuracy: 0.8784135240572172
+Epoch 15 - avg_train_loss: 0.3875  avg_val_loss: 0.4442  time: 45s
+Epoch 15 - Accuracy: 0.8836150845253576
+========== CV ==========
+Score: 0.89987
+========== training ==========
+========== training ==========
+Epoch 1 - avg_train_loss: 0.8471  avg_val_loss: 0.8332  time: 79s
+Epoch 1 - avg_train_loss: 0.8471  avg_val_loss: 0.8332  time: 79s
+Epoch 1 - Accuracy: 0.3933680104031209
+Epoch 1 - Accuracy: 0.3933680104031209
+Epoch 1 - Save Best Score: 0.3934 Model
+Epoch 1 - Save Best Score: 0.3934 Model
+========== training ==========
+Epoch 1 - avg_train_loss: 0.7727  avg_val_loss: 0.8028  time: 84s
+Epoch 1 - Accuracy: 0.41092327698309494
+Epoch 1 - Save Best Score: 0.4109 Model
+========== training ==========
+Epoch 1 - avg_train_loss: 0.5467  avg_val_loss: 0.5023  time: 83s
+Epoch 1 - Accuracy: 0.8556566970091027
+Epoch 1 - Save Best Score: 0.8557 Model
+Epoch 2 - avg_train_loss: 0.4906  avg_val_loss: 0.5284  time: 87s
+Epoch 2 - Accuracy: 0.8107932379713915
+========== training ==========
+========== training ==========
+========== training ==========
+Epoch 1 - avg_train_loss: 0.5584  avg_val_loss: 0.5336  time: 82s
+Epoch 1 - avg_train_loss: 0.5584  avg_val_loss: 0.5336  time: 82s
+Epoch 1 - Accuracy: 0.8276983094928478
+Epoch 1 - Accuracy: 0.8276983094928478
+Epoch 1 - Save Best Score: 0.8277 Model
+Epoch 1 - Save Best Score: 0.8277 Model
+========== training ==========
+Epoch 1 - avg_train_loss: 0.5188  avg_val_loss: 0.4699  time: 51s
+Epoch 1 - Accuracy: 0.8569570871261378
+Epoch 1 - Save Best Score: 0.8570 Model
+========== training ==========
+========== training ==========
+Epoch 1 - avg_train_loss: 0.4940  avg_val_loss: 0.4806  time: 63s
+Epoch 1 - Accuracy: 0.8543563068920677
+Epoch 1 - Save Best Score: 0.8544 Model
+Epoch 2 - avg_train_loss: 0.4563  avg_val_loss: 0.4529  time: 73s
+Epoch 2 - Accuracy: 0.8602080624187256
+Epoch 2 - Save Best Score: 0.8602 Model
+Epoch 3 - avg_train_loss: 0.4415  avg_val_loss: 0.4560  time: 71s
+Epoch 3 - Accuracy: 0.8628088426527959
+Epoch 3 - Save Best Score: 0.8628 Model
+Epoch 4 - avg_train_loss: 0.4319  avg_val_loss: 0.4606  time: 74s
+Epoch 4 - Accuracy: 0.8569570871261378
+Epoch 5 - avg_train_loss: 0.4224  avg_val_loss: 0.4787  time: 74s
+Epoch 5 - Accuracy: 0.8400520156046815
+========== training ==========
+Epoch 1 - avg_train_loss: 0.5707  avg_val_loss: 0.4907  time: 101s
+Epoch 1 - Accuracy: 0.8322496749024707
+Epoch 1 - Save Best Score: 0.8322 Model
+========== training ==========
+========== training ==========
+========== training ==========
+Epoch 1 - avg_train_loss: 0.5657  avg_val_loss: 0.5652  time: 48s
+Epoch 1 - avg_train_loss: 0.5657  avg_val_loss: 0.5652  time: 48s
+Epoch 1 - Accuracy: 0.7483745123537061
+Epoch 1 - Accuracy: 0.7483745123537061
+Epoch 1 - Save Best Score: 0.7484 Model
+Epoch 1 - Save Best Score: 0.7484 Model
+========== training ==========
+========== training ==========
+========== training ==========
+========== training ==========
+========== training ==========
+========== training ==========
+Epoch 1 - avg_train_loss: 0.5923  avg_val_loss: 0.5306  time: 151s
+Epoch 1 - Accuracy: 0.7932379713914174
+Epoch 1 - Save Best Score: 0.7932 Model
+========== training ==========
+========== training ==========
+========== training ==========
+Epoch 1 - avg_train_loss: 0.5180  avg_val_loss: 0.5073  time: 134s
+Epoch 1 - avg_train_loss: 0.5180  avg_val_loss: 0.5073  time: 134s
+Epoch 1 - Accuracy: 0.7483745123537061
+Epoch 1 - Accuracy: 0.7483745123537061
+Epoch 1 - Save Best Score: 0.7484 Model
+Epoch 1 - Save Best Score: 0.7484 Model
+========== training ==========
+                                                                                                                                                 ========== training ==========
+Epoch 1 - avg_train_loss: 0.6572  avg_val_loss: 0.6299  time: 56s
+Epoch 1 - Accuracy: 0.6482444733420026
+Epoch 1 - Save Best Score: 0.6482 Model
+========== training ==========
+========== training ==========
+Epoch 1 - avg_train_loss: -0.7247  avg_val_loss: -0.7215  time: 62s
+Epoch 1 - Accuracy: 0.7659297789336801
+Epoch 1 - Save Best Score: 0.7659 Model
+Epoch 2 - avg_train_loss: -0.8102  avg_val_loss: -0.8183  time: 73s
+Epoch 2 - Accuracy: 0.8602080624187256
+Epoch 2 - Save Best Score: 0.8602 Model
+Epoch 3 - avg_train_loss: -0.8528  avg_val_loss: -0.8600  time: 73s
+Epoch 3 - Accuracy: 0.8745123537061118
+Epoch 3 - Save Best Score: 0.8745 Model
+Epoch 4 - avg_train_loss: -0.8664  avg_val_loss: -0.8535  time: 72s
+Epoch 4 - Accuracy: 0.8725617685305592
+Epoch 5 - avg_train_loss: -0.8828  avg_val_loss: -0.8587  time: 75s
+Epoch 5 - Accuracy: 0.8686605981794538
+========== training ==========
+Epoch 1 - avg_train_loss: -0.7247  avg_val_loss: -0.7215  time: 65s
+Epoch 1 - Accuracy: 0.7659297789336801
+Epoch 1 - Save Best Score: 0.7659 Model
+Epoch 2 - avg_train_loss: -0.8102  avg_val_loss: -0.8183  time: 73s
+Epoch 2 - Accuracy: 0.8602080624187256
+Epoch 2 - Save Best Score: 0.8602 Model
+Epoch 3 - avg_train_loss: -0.8528  avg_val_loss: -0.8600  time: 71s
+Epoch 3 - Accuracy: 0.8745123537061118
+Epoch 3 - Save Best Score: 0.8745 Model
+Epoch 4 - avg_train_loss: -0.8664  avg_val_loss: -0.8535  time: 81s
+Epoch 4 - Accuracy: 0.8725617685305592
+Epoch 5 - avg_train_loss: -0.8828  avg_val_loss: -0.8587  time: 74s
+Epoch 5 - Accuracy: 0.8686605981794538
+========== training ==========
+========== training ==========
+========== training ==========
+Epoch 1 - avg_train_loss: 1.8913  avg_val_loss: 1.7354  time: 164s
+Epoch 1 - avg_train_loss: 1.8913  avg_val_loss: 1.7354  time: 164s
+Epoch 1 - avg_train_loss: 1.8913  avg_val_loss: 1.7354  time: 164s
+Epoch 1 - Accuracy: 0.2516254876462939
+Epoch 1 - Accuracy: 0.2516254876462939
+Epoch 1 - Accuracy: 0.2516254876462939
+Epoch 1 - Save Best Score: 0.2516 Model
+Epoch 1 - Save Best Score: 0.2516 Model
+Epoch 1 - Save Best Score: 0.2516 Model
+========== training ==========
+========== training ==========
+Epoch 1 - avg_train_loss: 0.6872  avg_val_loss: 0.6673  time: 66s
+Epoch 1 - Accuracy: 0.5981794538361509
+Epoch 1 - Save Best Score: 0.5982 Model
+========== training ==========

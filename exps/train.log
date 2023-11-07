@@ -1,0 +1,1319 @@
+========== training ==========
+Epoch 1 - avg_train_loss: 0.5155  avg_val_loss: 0.5022  time: 43s
+Epoch 1 - Accuracy: 0.8283485045513654
+Epoch 1 - Save Best Score: 0.8283 Model
+Epoch 2 - avg_train_loss: 0.4726  avg_val_loss: 0.4747  time: 43s
+Epoch 2 - Accuracy: 0.8569570871261378
+Epoch 2 - Save Best Score: 0.8570 Model
+Epoch 3 - avg_train_loss: 0.4579  avg_val_loss: 0.4679  time: 43s
+Epoch 3 - Accuracy: 0.8576072821846554
+Epoch 3 - Save Best Score: 0.8576 Model
+Epoch 4 - avg_train_loss: 0.4481  avg_val_loss: 0.4772  time: 43s
+Epoch 4 - Accuracy: 0.8556566970091027
+Epoch 5 - avg_train_loss: 0.4400  avg_val_loss: 0.4667  time: 41s
+Epoch 5 - Accuracy: 0.8615084525357607
+Epoch 5 - Save Best Score: 0.8615 Model
+Epoch 6 - avg_train_loss: 0.4338  avg_val_loss: 0.4745  time: 41s
+Epoch 6 - Accuracy: 0.8608582574772432
+Epoch 7 - avg_train_loss: 0.4291  avg_val_loss: 0.4634  time: 44s
+Epoch 7 - Accuracy: 0.8732119635890767
+Epoch 7 - Save Best Score: 0.8732 Model
+Epoch 8 - avg_train_loss: 0.4248  avg_val_loss: 0.4539  time: 42s
+Epoch 8 - Accuracy: 0.8706111833550065
+Epoch 9 - avg_train_loss: 0.4229  avg_val_loss: 0.4540  time: 44s
+Epoch 9 - Accuracy: 0.8693107932379714
+Epoch 10 - avg_train_loss: 0.4217  avg_val_loss: 0.4530  time: 45s
+Epoch 10 - Accuracy: 0.8725617685305592
+Epoch 11 - avg_train_loss: 0.4308  avg_val_loss: 0.4631  time: 45s
+Epoch 11 - Accuracy: 0.8647594278283485
+Epoch 12 - avg_train_loss: 0.4248  avg_val_loss: 0.4560  time: 46s
+Epoch 12 - Accuracy: 0.8758127438231469
+Epoch 12 - Save Best Score: 0.8758 Model
+Epoch 13 - avg_train_loss: 0.4191  avg_val_loss: 0.4735  time: 43s
+Epoch 13 - Accuracy: 0.8576072821846554
+Epoch 14 - avg_train_loss: 0.4123  avg_val_loss: 0.4702  time: 43s
+Epoch 14 - Accuracy: 0.8673602080624188
+Epoch 15 - avg_train_loss: 0.4079  avg_val_loss: 0.4685  time: 44s
+Epoch 15 - Accuracy: 0.8745123537061118
+Epoch 16 - avg_train_loss: 0.4019  avg_val_loss: 0.4533  time: 45s
+Epoch 16 - Accuracy: 0.8849154746423927
+Epoch 16 - Save Best Score: 0.8849 Model
+Epoch 17 - avg_train_loss: 0.3976  avg_val_loss: 0.4427  time: 46s
+Epoch 17 - Accuracy: 0.8855656697009102
+Epoch 17 - Save Best Score: 0.8856 Model
+Epoch 18 - avg_train_loss: 0.3934  avg_val_loss: 0.4406  time: 45s
+Epoch 18 - Accuracy: 0.8907672301690507
+Epoch 18 - Save Best Score: 0.8908 Model
+Epoch 19 - avg_train_loss: 0.3909  avg_val_loss: 0.4396  time: 43s
+Epoch 19 - Accuracy: 0.8914174252275683
+Epoch 19 - Save Best Score: 0.8914 Model
+Epoch 20 - avg_train_loss: 0.3900  avg_val_loss: 0.4392  time: 44s
+Epoch 20 - Accuracy: 0.8959687906371911
+Epoch 20 - Save Best Score: 0.8960 Model
+========== CV ==========
+Score: 0.89597
+========== training ==========
+Epoch 1 - avg_train_loss: 0.5114  avg_val_loss: 0.4745  time: 43s
+Epoch 1 - Accuracy: 0.8413524057217165
+Epoch 1 - Save Best Score: 0.8414 Model
+Epoch 2 - avg_train_loss: 0.4616  avg_val_loss: 0.4678  time: 44s
+Epoch 2 - Accuracy: 0.8491547464239272
+Epoch 2 - Save Best Score: 0.8492 Model
+Epoch 3 - avg_train_loss: 0.4504  avg_val_loss: 0.4560  time: 42s
+Epoch 3 - Accuracy: 0.8576072821846554
+Epoch 3 - Save Best Score: 0.8576 Model
+Epoch 4 - avg_train_loss: 0.4418  avg_val_loss: 0.4515  time: 45s
+Epoch 4 - Accuracy: 0.8706111833550065
+Epoch 4 - Save Best Score: 0.8706 Model
+Epoch 5 - avg_train_loss: 0.4337  avg_val_loss: 0.4481  time: 48s
+Epoch 5 - Accuracy: 0.8673602080624188
+Epoch 6 - avg_train_loss: 0.4271  avg_val_loss: 0.4494  time: 46s
+Epoch 6 - Accuracy: 0.8771131339401821
+Epoch 6 - Save Best Score: 0.8771 Model
+Epoch 7 - avg_train_loss: 0.4234  avg_val_loss: 0.4455  time: 45s
+Epoch 7 - Accuracy: 0.8790637191157347
+Epoch 7 - Save Best Score: 0.8791 Model
+Epoch 8 - avg_train_loss: 0.4192  avg_val_loss: 0.4423  time: 47s
+Epoch 8 - Accuracy: 0.8784135240572172
+Epoch 9 - avg_train_loss: 0.4168  avg_val_loss: 0.4417  time: 48s
+Epoch 9 - Accuracy: 0.8764629388816645
+Epoch 10 - avg_train_loss: 0.4160  avg_val_loss: 0.4413  time: 49s
+Epoch 10 - Accuracy: 0.8758127438231469
+Epoch 11 - avg_train_loss: 0.4249  avg_val_loss: 0.4426  time: 50s
+Epoch 11 - Accuracy: 0.8751625487646294
+Epoch 12 - avg_train_loss: 0.4208  avg_val_loss: 0.4430  time: 48s
+Epoch 12 - Accuracy: 0.8777633289986996
+Epoch 13 - avg_train_loss: 0.4142  avg_val_loss: 0.4389  time: 47s
+Epoch 13 - Accuracy: 0.8797139141742523
+Epoch 13 - Save Best Score: 0.8797 Model
+Epoch 14 - avg_train_loss: 0.4090  avg_val_loss: 0.4451  time: 47s
+Epoch 14 - Accuracy: 0.881664499349805
+Epoch 14 - Save Best Score: 0.8817 Model
+Epoch 15 - avg_train_loss: 0.4028  avg_val_loss: 0.4482  time: 45s
+Epoch 15 - Accuracy: 0.8836150845253576
+Epoch 15 - Save Best Score: 0.8836 Model
+Epoch 16 - avg_train_loss: 0.3978  avg_val_loss: 0.4408  time: 45s
+Epoch 16 - Accuracy: 0.8849154746423927
+Epoch 16 - Save Best Score: 0.8849 Model
+Epoch 17 - avg_train_loss: 0.3934  avg_val_loss: 0.4386  time: 46s
+Epoch 17 - Accuracy: 0.8875162548764629
+Epoch 17 - Save Best Score: 0.8875 Model
+Epoch 18 - avg_train_loss: 0.3899  avg_val_loss: 0.4385  time: 45s
+Epoch 18 - Accuracy: 0.8875162548764629
+Epoch 19 - avg_train_loss: 0.3882  avg_val_loss: 0.4361  time: 47s
+Epoch 19 - Accuracy: 0.8907672301690507
+Epoch 19 - Save Best Score: 0.8908 Model
+Epoch 20 - avg_train_loss: 0.3867  avg_val_loss: 0.4365  time: 49s
+Epoch 20 - Accuracy: 0.8901170351105332
+========== CV ==========
+Score: 0.89077
+========== training ==========
+Epoch 1 - avg_train_loss: 0.5000  avg_val_loss: 0.4808  time: 45s
+Epoch 1 - Accuracy: 0.8459037711313394
+Epoch 1 - Save Best Score: 0.8459 Model
+Epoch 2 - avg_train_loss: 0.4633  avg_val_loss: 0.4603  time: 46s
+Epoch 2 - Accuracy: 0.8751625487646294
+Epoch 2 - Save Best Score: 0.8752 Model
+Epoch 3 - avg_train_loss: 0.4499  avg_val_loss: 0.4682  time: 45s
+Epoch 3 - Accuracy: 0.8706111833550065
+Epoch 4 - avg_train_loss: 0.4416  avg_val_loss: 0.4533  time: 45s
+Epoch 4 - Accuracy: 0.8719115734720416
+Epoch 5 - avg_train_loss: 0.4340  avg_val_loss: 0.4530  time: 46s
+Epoch 5 - Accuracy: 0.8790637191157347
+Epoch 5 - Save Best Score: 0.8791 Model
+Epoch 6 - avg_train_loss: 0.4270  avg_val_loss: 0.4589  time: 46s
+Epoch 6 - Accuracy: 0.8790637191157347
+Epoch 7 - avg_train_loss: 0.4227  avg_val_loss: 0.4482  time: 46s
+Epoch 7 - Accuracy: 0.8797139141742523
+Epoch 7 - Save Best Score: 0.8797 Model
+Epoch 8 - avg_train_loss: 0.4191  avg_val_loss: 0.4438  time: 48s
+Epoch 8 - Accuracy: 0.88296488946684
+Epoch 8 - Save Best Score: 0.8830 Model
+Epoch 9 - avg_train_loss: 0.4161  avg_val_loss: 0.4429  time: 49s
+Epoch 9 - Accuracy: 0.8797139141742523
+Epoch 10 - avg_train_loss: 0.4149  avg_val_loss: 0.4429  time: 50s
+Epoch 10 - Accuracy: 0.8836150845253576
+Epoch 10 - Save Best Score: 0.8836 Model
+Epoch 11 - avg_train_loss: 0.4240  avg_val_loss: 0.4419  time: 49s
+Epoch 11 - Accuracy: 0.8849154746423927
+Epoch 11 - Save Best Score: 0.8849 Model
+Epoch 12 - avg_train_loss: 0.4182  avg_val_loss: 0.4458  time: 47s
+Epoch 12 - Accuracy: 0.8823146944083224
+Epoch 13 - avg_train_loss: 0.4123  avg_val_loss: 0.4377  time: 46s
+Epoch 13 - Accuracy: 0.8842652795838751
+Epoch 14 - avg_train_loss: 0.4057  avg_val_loss: 0.4435  time: 46s
+Epoch 14 - Accuracy: 0.8823146944083224
+Epoch 15 - avg_train_loss: 0.4000  avg_val_loss: 0.4452  time: 45s
+Epoch 15 - Accuracy: 0.8862158647594278
+Epoch 15 - Save Best Score: 0.8862 Model
+Epoch 16 - avg_train_loss: 0.3962  avg_val_loss: 0.4488  time: 47s
+Epoch 16 - Accuracy: 0.8836150845253576
+Epoch 17 - avg_train_loss: 0.3918  avg_val_loss: 0.4424  time: 46s
+Epoch 17 - Accuracy: 0.8875162548764629
+Epoch 17 - Save Best Score: 0.8875 Model
+Epoch 18 - avg_train_loss: 0.3871  avg_val_loss: 0.4389  time: 46s
+Epoch 18 - Accuracy: 0.893368010403121
+Epoch 18 - Save Best Score: 0.8934 Model
+Epoch 19 - avg_train_loss: 0.3849  avg_val_loss: 0.4373  time: 47s
+Epoch 19 - Accuracy: 0.8927178153446034
+Epoch 20 - avg_train_loss: 0.3841  avg_val_loss: 0.4377  time: 49s
+Epoch 20 - Accuracy: 0.8927178153446034
+========== CV ==========
+Score: 0.89337
+========== training ==========
+Epoch 1 - avg_train_loss: 0.5214  avg_val_loss: 0.5067  time: 45s
+Epoch 1 - Accuracy: 0.8270481144343304
+Epoch 1 - Save Best Score: 0.8270 Model
+Epoch 2 - avg_train_loss: 0.4768  avg_val_loss: 0.4895  time: 46s
+Epoch 2 - Accuracy: 0.840702210663199
+Epoch 2 - Save Best Score: 0.8407 Model
+Epoch 3 - avg_train_loss: 0.4651  avg_val_loss: 0.4864  time: 44s
+Epoch 3 - Accuracy: 0.8452535760728218
+Epoch 3 - Save Best Score: 0.8453 Model
+Epoch 4 - avg_train_loss: 0.4556  avg_val_loss: 0.5007  time: 45s
+Epoch 4 - Accuracy: 0.8289986996098829
+Epoch 5 - avg_train_loss: 0.4478  avg_val_loss: 0.4749  time: 45s
+Epoch 5 - Accuracy: 0.8556566970091027
+Epoch 5 - Save Best Score: 0.8557 Model
+Epoch 6 - avg_train_loss: 0.4429  avg_val_loss: 0.4763  time: 46s
+Epoch 6 - Accuracy: 0.8563068920676203
+Epoch 6 - Save Best Score: 0.8563 Model
+Epoch 7 - avg_train_loss: 0.4370  avg_val_loss: 0.4696  time: 47s
+Epoch 7 - Accuracy: 0.8608582574772432
+Epoch 7 - Save Best Score: 0.8609 Model
+Epoch 8 - avg_train_loss: 0.4325  avg_val_loss: 0.4624  time: 47s
+Epoch 8 - Accuracy: 0.8699609882964889
+Epoch 8 - Save Best Score: 0.8700 Model
+Epoch 9 - avg_train_loss: 0.4304  avg_val_loss: 0.4616  time: 48s
+Epoch 9 - Accuracy: 0.8680104031209362
+Epoch 10 - avg_train_loss: 0.4286  avg_val_loss: 0.4620  time: 50s
+Epoch 10 - Accuracy: 0.8667100130039012
+Epoch 11 - avg_train_loss: 0.4377  avg_val_loss: 0.4658  time: 49s
+Epoch 11 - Accuracy: 0.8634590377113134
+Epoch 12 - avg_train_loss: 0.4308  avg_val_loss: 0.4686  time: 47s
+Epoch 12 - Accuracy: 0.8634590377113134
+Epoch 13 - avg_train_loss: 0.4241  avg_val_loss: 0.4583  time: 47s
+Epoch 13 - Accuracy: 0.8745123537061118
+Epoch 13 - Save Best Score: 0.8745 Model
+Epoch 14 - avg_train_loss: 0.4178  avg_val_loss: 0.4611  time: 45s
+Epoch 14 - Accuracy: 0.8725617685305592
+Epoch 15 - avg_train_loss: 0.4120  avg_val_loss: 0.4696  time: 45s
+Epoch 15 - Accuracy: 0.8602080624187256
+Epoch 16 - avg_train_loss: 0.4068  avg_val_loss: 0.4642  time: 45s
+Epoch 16 - Accuracy: 0.8693107932379714
+Epoch 17 - avg_train_loss: 0.4021  avg_val_loss: 0.4583  time: 44s
+Epoch 17 - Accuracy: 0.8719115734720416
+Epoch 18 - avg_train_loss: 0.3992  avg_val_loss: 0.4485  time: 47s
+Epoch 18 - Accuracy: 0.88296488946684
+Epoch 18 - Save Best Score: 0.8830 Model
+Epoch 19 - avg_train_loss: 0.3965  avg_val_loss: 0.4474  time: 47s
+Epoch 19 - Accuracy: 0.8803641092327699
+Epoch 20 - avg_train_loss: 0.3946  avg_val_loss: 0.4475  time: 49s
+Epoch 20 - Accuracy: 0.8790637191157347
+========== CV ==========
+Score: 0.88296
+========== training ==========
+Epoch 1 - avg_train_loss: 0.5338  avg_val_loss: 0.5144  time: 45s
+Epoch 1 - Accuracy: 0.8250975292587777
+Epoch 1 - Save Best Score: 0.8251 Model
+Epoch 2 - avg_train_loss: 0.4908  avg_val_loss: 0.5003  time: 45s
+Epoch 2 - Accuracy: 0.8426527958387516
+Epoch 2 - Save Best Score: 0.8427 Model
+Epoch 3 - avg_train_loss: 0.4746  avg_val_loss: 0.4905  time: 45s
+Epoch 3 - Accuracy: 0.8472041612483745
+Epoch 3 - Save Best Score: 0.8472 Model
+Epoch 4 - avg_train_loss: 0.4653  avg_val_loss: 0.4751  time: 46s
+Epoch 4 - Accuracy: 0.8693107932379714
+Epoch 4 - Save Best Score: 0.8693 Model
+Epoch 5 - avg_train_loss: 0.4564  avg_val_loss: 0.4687  time: 45s
+Epoch 5 - Accuracy: 0.8706111833550065
+Epoch 5 - Save Best Score: 0.8706 Model
+Epoch 6 - avg_train_loss: 0.4502  avg_val_loss: 0.4643  time: 45s
+Epoch 6 - Accuracy: 0.8784135240572172
+Epoch 6 - Save Best Score: 0.8784 Model
+Epoch 7 - avg_train_loss: 0.4440  avg_val_loss: 0.4693  time: 47s
+Epoch 7 - Accuracy: 0.8706111833550065
+Epoch 8 - avg_train_loss: 0.4407  avg_val_loss: 0.4610  time: 49s
+Epoch 8 - Accuracy: 0.881664499349805
+Epoch 8 - Save Best Score: 0.8817 Model
+Epoch 9 - avg_train_loss: 0.4378  avg_val_loss: 0.4597  time: 49s
+Epoch 9 - Accuracy: 0.8803641092327699
+Epoch 10 - avg_train_loss: 0.4363  avg_val_loss: 0.4599  time: 49s
+Epoch 10 - Accuracy: 0.8784135240572172
+Epoch 11 - avg_train_loss: 0.4462  avg_val_loss: 0.4789  time: 47s
+Epoch 11 - Accuracy: 0.8751625487646294
+Epoch 12 - avg_train_loss: 0.4383  avg_val_loss: 0.4676  time: 46s
+Epoch 12 - Accuracy: 0.8797139141742523
+Epoch 13 - avg_train_loss: 0.4300  avg_val_loss: 0.4533  time: 46s
+Epoch 13 - Accuracy: 0.8875162548764629
+Epoch 13 - Save Best Score: 0.8875 Model
+Epoch 14 - avg_train_loss: 0.4236  avg_val_loss: 0.4575  time: 45s
+Epoch 14 - Accuracy: 0.88296488946684
+Epoch 15 - avg_train_loss: 0.4174  avg_val_loss: 0.4435  time: 46s
+Epoch 15 - Accuracy: 0.8875162548764629
+Epoch 16 - avg_train_loss: 0.4109  avg_val_loss: 0.4443  time: 45s
+Epoch 16 - Accuracy: 0.8894668400520156
+Epoch 16 - Save Best Score: 0.8895 Model
+Epoch 17 - avg_train_loss: 0.4065  avg_val_loss: 0.4475  time: 45s
+Epoch 17 - Accuracy: 0.8914174252275683
+Epoch 17 - Save Best Score: 0.8914 Model
+Epoch 18 - avg_train_loss: 0.4041  avg_val_loss: 0.4393  time: 48s
+Epoch 18 - Accuracy: 0.8946684005201561
+Epoch 18 - Save Best Score: 0.8947 Model
+Epoch 19 - avg_train_loss: 0.4015  avg_val_loss: 0.4398  time: 48s
+Epoch 19 - Accuracy: 0.8940182054616385
+Epoch 20 - avg_train_loss: 0.3991  avg_val_loss: 0.4397  time: 49s
+Epoch 20 - Accuracy: 0.8946684005201561
+========== CV ==========
+Score: 0.89467
+========== training ==========
+Epoch 1 - avg_train_loss: 0.4765  avg_val_loss: 0.3819  time: 33s
+Epoch 1 - Accuracy: 0.846553966189857
+Epoch 1 - Save Best Score: 0.8466 Model
+Epoch 2 - avg_train_loss: 0.3381  avg_val_loss: 0.3497  time: 36s
+Epoch 2 - Accuracy: 0.8647594278283485
+Epoch 2 - Save Best Score: 0.8648 Model
+Epoch 3 - avg_train_loss: 0.2954  avg_val_loss: 0.3311  time: 37s
+Epoch 3 - Accuracy: 0.8732119635890767
+Epoch 3 - Save Best Score: 0.8732 Model
+========== training ==========
+Epoch 1 - avg_train_loss: -14.4894  avg_val_loss: -59.6070  time: 35s
+Epoch 1 - Accuracy: 0.7483745123537061
+Epoch 1 - Save Best Score: 0.7484 Model
+========== training ==========
+Epoch 1 - avg_train_loss: -113.0078  avg_val_loss: -225.7249  time: 35s
+Epoch 1 - Accuracy: 0.7483745123537061
+Epoch 1 - Save Best Score: 0.7484 Model
+========== training ==========
+Epoch 1 - avg_train_loss: -0.4433  avg_val_loss: -0.4676  time: 69s
+Epoch 1 - Accuracy: 0.4694408322496749
+Epoch 1 - Save Best Score: 0.4694 Model
+========== training ==========
+Epoch 1 - avg_train_loss: -0.7613  avg_val_loss: -0.7664  time: 49s
+Epoch 1 - Accuracy: 0.8205461638491548
+Epoch 1 - Save Best Score: 0.8205 Model
+========== training ==========
+Epoch 1 - avg_train_loss: -0.7574  avg_val_loss: -0.7103  time: 45s
+Epoch 1 - Accuracy: 0.8036410923276983
+Epoch 1 - Save Best Score: 0.8036 Model
+Epoch 2 - avg_train_loss: -0.8277  avg_val_loss: -0.7972  time: 44s
+Epoch 2 - Accuracy: 0.8342002600780234
+Epoch 2 - Save Best Score: 0.8342 Model
+Epoch 3 - avg_train_loss: -0.8451  avg_val_loss: -0.7869  time: 44s
+Epoch 3 - Accuracy: 0.8576072821846554
+Epoch 3 - Save Best Score: 0.8576 Model
+========== training ==========
+Epoch 1 - avg_train_loss: -0.7574  avg_val_loss: -0.7103  time: 44s
+Epoch 1 - Accuracy: 0.8036410923276983
+Epoch 1 - Save Best Score: 0.8036 Model
+Epoch 2 - avg_train_loss: -0.8277  avg_val_loss: -0.7972  time: 42s
+Epoch 2 - Accuracy: 0.8342002600780234
+Epoch 2 - Save Best Score: 0.8342 Model
+Epoch 3 - avg_train_loss: -0.8451  avg_val_loss: -0.7869  time: 42s
+Epoch 3 - Accuracy: 0.8576072821846554
+Epoch 3 - Save Best Score: 0.8576 Model
+Epoch 4 - avg_train_loss: -0.8541  avg_val_loss: -0.8068  time: 44s
+Epoch 4 - Accuracy: 0.8621586475942783
+Epoch 4 - Save Best Score: 0.8622 Model
+Epoch 5 - avg_train_loss: -0.8671  avg_val_loss: -0.8480  time: 43s
+Epoch 5 - Accuracy: 0.8738621586475943
+Epoch 5 - Save Best Score: 0.8739 Model
+Epoch 6 - avg_train_loss: -0.8780  avg_val_loss: -0.8556  time: 44s
+Epoch 6 - Accuracy: 0.8751625487646294
+Epoch 6 - Save Best Score: 0.8752 Model
+Epoch 7 - avg_train_loss: -0.8904  avg_val_loss: -0.8555  time: 45s
+Epoch 7 - Accuracy: 0.8771131339401821
+Epoch 7 - Save Best Score: 0.8771 Model
+Epoch 8 - avg_train_loss: -0.8969  avg_val_loss: -0.8615  time: 45s
+Epoch 8 - Accuracy: 0.888816644993498
+Epoch 8 - Save Best Score: 0.8888 Model
+Epoch 9 - avg_train_loss: -0.9079  avg_val_loss: -0.8719  time: 51s
+Epoch 9 - Accuracy: 0.8914174252275683
+Epoch 9 - Save Best Score: 0.8914 Model
+Epoch 10 - avg_train_loss: -0.9147  avg_val_loss: -0.8744  time: 45s
+Epoch 10 - Accuracy: 0.8953185955786735
+Epoch 10 - Save Best Score: 0.8953 Model
+Epoch 11 - avg_train_loss: -0.8666  avg_val_loss: -0.8034  time: 45s
+Epoch 11 - Accuracy: 0.8276983094928478
+Epoch 12 - avg_train_loss: -0.8714  avg_val_loss: -0.8276  time: 43s
+Epoch 12 - Accuracy: 0.8654096228868661
+Epoch 13 - avg_train_loss: -0.8791  avg_val_loss: -0.8508  time: 42s
+Epoch 13 - Accuracy: 0.8732119635890767
+========== training ==========
+========== training ==========
+Epoch 1 - avg_train_loss: -0.4930  avg_val_loss: -0.5194  time: 46s
+Epoch 1 - Accuracy: 0.5123537061118335
+Epoch 1 - Save Best Score: 0.5124 Model
+========== training ==========
+Epoch 1 - avg_train_loss: -0.5188  avg_val_loss: -0.5787  time: 44s
+Epoch 1 - Accuracy: 0.5981794538361509
+Epoch 1 - Save Best Score: 0.5982 Model
+========== training ==========
+========== training ==========
+Epoch 1 - avg_train_loss: -0.7594  avg_val_loss: -0.6550  time: 44s
+Epoch 1 - Accuracy: 0.7665799739921977
+Epoch 1 - Save Best Score: 0.7666 Model
+========== training ==========
+Epoch 1 - avg_train_loss: -0.7485  avg_val_loss: -0.6925  time: 44s
+Epoch 1 - Accuracy: 0.7893368010403121
+Epoch 1 - Save Best Score: 0.7893 Model
+Epoch 2 - avg_train_loss: -0.8228  avg_val_loss: -0.7902  time: 43s
+Epoch 2 - Accuracy: 0.8309492847854356
+Epoch 2 - Save Best Score: 0.8309 Model
+========== training ==========
+Epoch 1 - avg_train_loss: -0.5142  avg_val_loss: -0.5768  time: 42s
+Epoch 1 - Accuracy: 0.5949284785435631
+Epoch 1 - Save Best Score: 0.5949 Model
+========== training ==========
+Epoch 1 - avg_train_loss: -0.7371  avg_val_loss: -0.7822  time: 43s
+Epoch 1 - Accuracy: 0.8368010403120937
+Epoch 1 - Save Best Score: 0.8368 Model
+Epoch 2 - avg_train_loss: -0.7950  avg_val_loss: -0.8046  time: 42s
+Epoch 2 - Accuracy: 0.85370611183355
+Epoch 2 - Save Best Score: 0.8537 Model
+Epoch 3 - avg_train_loss: -0.8179  avg_val_loss: -0.8174  time: 42s
+Epoch 3 - Accuracy: 0.8530559167750326
+Epoch 4 - avg_train_loss: -0.8296  avg_val_loss: -0.8198  time: 44s
+Epoch 4 - Accuracy: 0.864109232769831
+Epoch 4 - Save Best Score: 0.8641 Model
+Epoch 5 - avg_train_loss: -0.8396  avg_val_loss: -0.8322  time: 44s
+Epoch 5 - Accuracy: 0.8699609882964889
+Epoch 5 - Save Best Score: 0.8700 Model
+Epoch 6 - avg_train_loss: -0.8472  avg_val_loss: -0.8293  time: 45s
+Epoch 6 - Accuracy: 0.8771131339401821
+Epoch 6 - Save Best Score: 0.8771 Model
+Epoch 7 - avg_train_loss: -0.8549  avg_val_loss: -0.8343  time: 46s
+Epoch 7 - Accuracy: 0.8790637191157347
+Epoch 7 - Save Best Score: 0.8791 Model
+Epoch 8 - avg_train_loss: -0.8592  avg_val_loss: -0.8443  time: 45s
+Epoch 8 - Accuracy: 0.8784135240572172
+Epoch 9 - avg_train_loss: -0.8624  avg_val_loss: -0.8450  time: 45s
+Epoch 9 - Accuracy: 0.8764629388816645
+Epoch 10 - avg_train_loss: -0.8629  avg_val_loss: -0.8444  time: 46s
+Epoch 10 - Accuracy: 0.8738621586475943
+========== CV ==========
+Score: 0.87906
+========== training ==========
+Epoch 1 - avg_train_loss: -0.7558  avg_val_loss: -0.8092  time: 40s
+Epoch 1 - Accuracy: 0.8485045513654096
+Epoch 1 - Save Best Score: 0.8485 Model
+Epoch 2 - avg_train_loss: -0.8215  avg_val_loss: -0.7932  time: 42s
+Epoch 2 - Accuracy: 0.8394018205461639
+Epoch 3 - avg_train_loss: -0.8439  avg_val_loss: -0.8313  time: 43s
+Epoch 3 - Accuracy: 0.8654096228868661
+Epoch 3 - Save Best Score: 0.8654 Model
+Epoch 4 - avg_train_loss: -0.8607  avg_val_loss: -0.8488  time: 44s
+Epoch 4 - Accuracy: 0.8771131339401821
+Epoch 4 - Save Best Score: 0.8771 Model
+Epoch 5 - avg_train_loss: -0.8733  avg_val_loss: -0.8548  time: 44s
+Epoch 5 - Accuracy: 0.88296488946684
+Epoch 5 - Save Best Score: 0.8830 Model
+Epoch 6 - avg_train_loss: -0.8806  avg_val_loss: -0.8625  time: 46s
+Epoch 6 - Accuracy: 0.88296488946684
+Epoch 7 - avg_train_loss: -0.8879  avg_val_loss: -0.8486  time: 45s
+Epoch 7 - Accuracy: 0.8836150845253576
+Epoch 7 - Save Best Score: 0.8836 Model
+Epoch 8 - avg_train_loss: -0.8978  avg_val_loss: -0.8708  time: 44s
+Epoch 8 - Accuracy: 0.8907672301690507
+Epoch 8 - Save Best Score: 0.8908 Model
+Epoch 9 - avg_train_loss: -0.9050  avg_val_loss: -0.8711  time: 43s
+Epoch 9 - Accuracy: 0.8940182054616385
+Epoch 9 - Save Best Score: 0.8940 Model
+Epoch 10 - avg_train_loss: -0.9107  avg_val_loss: -0.8725  time: 44s
+Epoch 10 - Accuracy: 0.8907672301690507
+Epoch 11 - avg_train_loss: -0.8786  avg_val_loss: -0.7871  time: 42s
+Epoch 11 - Accuracy: 0.8478543563068921
+Epoch 12 - avg_train_loss: -0.8824  avg_val_loss: -0.8566  time: 42s
+Epoch 12 - Accuracy: 0.881664499349805
+                                                                                                           ========== training ==========
+Epoch 1 - avg_train_loss: -0.7340  avg_val_loss: -0.7627  time: 47s
+Epoch 1 - Accuracy: 0.8289986996098829
+Epoch 1 - Save Best Score: 0.8290 Model
+Epoch 2 - avg_train_loss: -0.8240  avg_val_loss: -0.7701  time: 45s
+Epoch 2 - Accuracy: 0.8276983094928478
+Epoch 3 - avg_train_loss: -0.8423  avg_val_loss: -0.8425  time: 44s
+Epoch 3 - Accuracy: 0.8634590377113134
+Epoch 3 - Save Best Score: 0.8635 Model
+Epoch 4 - avg_train_loss: -0.8609  avg_val_loss: -0.8470  time: 41s
+Epoch 4 - Accuracy: 0.8634590377113134
+Epoch 5 - avg_train_loss: -0.8681  avg_val_loss: -0.8369  time: 42s
+Epoch 5 - Accuracy: 0.8628088426527959
+Epoch 6 - avg_train_loss: -0.8782  avg_val_loss: -0.8466  time: 43s
+Epoch 6 - Accuracy: 0.8589076723016905
+========== training ==========
+Epoch 1 - avg_train_loss: -0.7523  avg_val_loss: -0.7829  time: 44s
+Epoch 1 - Accuracy: 0.8289986996098829
+Epoch 1 - Save Best Score: 0.8290 Model
+Epoch 2 - avg_train_loss: -0.8236  avg_val_loss: -0.8075  time: 44s
+Epoch 2 - Accuracy: 0.8582574772431729
+Epoch 2 - Save Best Score: 0.8583 Model
+Epoch 3 - avg_train_loss: -0.8444  avg_val_loss: -0.8480  time: 43s
+Epoch 3 - Accuracy: 0.8680104031209362
+Epoch 3 - Save Best Score: 0.8680 Model
+Epoch 4 - avg_train_loss: -0.8602  avg_val_loss: -0.8534  time: 43s
+Epoch 4 - Accuracy: 0.8810143042912874
+Epoch 4 - Save Best Score: 0.8810 Model
+Epoch 5 - avg_train_loss: -0.8675  avg_val_loss: -0.8613  time: 43s
+Epoch 5 - Accuracy: 0.8894668400520156
+Epoch 5 - Save Best Score: 0.8895 Model
+Epoch 6 - avg_train_loss: -0.8804  avg_val_loss: -0.8600  time: 43s
+Epoch 6 - Accuracy: 0.8790637191157347
+Epoch 7 - avg_train_loss: -0.8881  avg_val_loss: -0.8490  time: 44s
+Epoch 7 - Accuracy: 0.8849154746423927
+Epoch 8 - avg_train_loss: -0.8961  avg_val_loss: -0.8584  time: 46s
+Epoch 8 - Accuracy: 0.8920676202860858
+Epoch 8 - Save Best Score: 0.8921 Model
+Epoch 9 - avg_train_loss: -0.9061  avg_val_loss: -0.8669  time: 45s
+Epoch 9 - Accuracy: 0.8946684005201561
+Epoch 9 - Save Best Score: 0.8947 Model
+Epoch 10 - avg_train_loss: -0.9118  avg_val_loss: -0.8704  time: 45s
+Epoch 10 - Accuracy: 0.8953185955786735
+Epoch 10 - Save Best Score: 0.8953 Model
+========== CV ==========
+Score: 0.89532
+========== training ==========
+Epoch 1 - avg_train_loss: -0.7223  avg_val_loss: -0.7533  time: 41s
+Epoch 1 - Accuracy: 0.8289986996098829
+Epoch 1 - Save Best Score: 0.8290 Model
+Epoch 2 - avg_train_loss: -0.8192  avg_val_loss: -0.7674  time: 42s
+Epoch 2 - Accuracy: 0.8198959687906372
+Epoch 3 - avg_train_loss: -0.8451  avg_val_loss: -0.8375  time: 43s
+Epoch 3 - Accuracy: 0.8602080624187256
+Epoch 3 - Save Best Score: 0.8602 Model
+Epoch 4 - avg_train_loss: -0.8618  avg_val_loss: -0.8368  time: 41s
+Epoch 4 - Accuracy: 0.8517555266579974
+Epoch 5 - avg_train_loss: -0.8746  avg_val_loss: -0.8485  time: 41s
+Epoch 5 - Accuracy: 0.8602080624187256
+Epoch 6 - avg_train_loss: -0.8847  avg_val_loss: -0.8524  time: 41s
+Epoch 6 - Accuracy: 0.8719115734720416
+Epoch 6 - Save Best Score: 0.8719 Model
+Epoch 7 - avg_train_loss: -0.8914  avg_val_loss: -0.8541  time: 41s
+Epoch 7 - Accuracy: 0.871261378413524
+Epoch 8 - avg_train_loss: -0.9009  avg_val_loss: -0.8672  time: 42s
+Epoch 8 - Accuracy: 0.8855656697009102
+Epoch 8 - Save Best Score: 0.8856 Model
+Epoch 9 - avg_train_loss: -0.9111  avg_val_loss: -0.8703  time: 43s
+Epoch 9 - Accuracy: 0.8881664499349805
+Epoch 9 - Save Best Score: 0.8882 Model
+Epoch 10 - avg_train_loss: -0.9166  avg_val_loss: -0.8725  time: 44s
+Epoch 10 - Accuracy: 0.8868660598179454
+========== CV ==========
+Score: 0.88817
+========== training ==========
+Epoch 1 - avg_train_loss: -0.7286  avg_val_loss: -0.6734  time: 41s
+Epoch 1 - Accuracy: 0.764629388816645
+Epoch 1 - Save Best Score: 0.7646 Model
+Epoch 2 - avg_train_loss: -0.7813  avg_val_loss: -0.7477  time: 41s
+Epoch 2 - Accuracy: 0.8068920676202861
+Epoch 2 - Save Best Score: 0.8069 Model
+Epoch 3 - avg_train_loss: -0.7942  avg_val_loss: -0.7248  time: 41s
+Epoch 3 - Accuracy: 0.8016905071521456
+Epoch 4 - avg_train_loss: -0.8054  avg_val_loss: -0.7747  time: 41s
+Epoch 4 - Accuracy: 0.823146944083225
+Epoch 4 - Save Best Score: 0.8231 Model
+Epoch 5 - avg_train_loss: -0.8125  avg_val_loss: -0.7971  time: 41s
+Epoch 5 - Accuracy: 0.8498049414824448
+Epoch 5 - Save Best Score: 0.8498 Model
+Epoch 6 - avg_train_loss: -0.8225  avg_val_loss: -0.8072  time: 41s
+Epoch 6 - Accuracy: 0.8550065019505851
+Epoch 6 - Save Best Score: 0.8550 Model
+Epoch 7 - avg_train_loss: -0.8311  avg_val_loss: -0.8129  time: 43s
+Epoch 7 - Accuracy: 0.8660598179453837
+Epoch 7 - Save Best Score: 0.8661 Model
+Epoch 8 - avg_train_loss: -0.8338  avg_val_loss: -0.8173  time: 44s
+Epoch 8 - Accuracy: 0.8686605981794538
+Epoch 8 - Save Best Score: 0.8687 Model
+Epoch 9 - avg_train_loss: -0.8429  avg_val_loss: -0.8193  time: 45s
+Epoch 9 - Accuracy: 0.8777633289986996
+Epoch 9 - Save Best Score: 0.8778 Model
+Epoch 10 - avg_train_loss: -0.8473  avg_val_loss: -0.8200  time: 46s
+Epoch 10 - Accuracy: 0.8771131339401821
+========== CV ==========
+Score: 0.87776
+========== training ==========
+Epoch 1 - avg_train_loss: -0.7236  avg_val_loss: -0.7409  time: 40s
+Epoch 1 - Accuracy: 0.7802340702210663
+Epoch 1 - Save Best Score: 0.7802 Model
+Epoch 2 - avg_train_loss: -0.7858  avg_val_loss: -0.7673  time: 40s
+Epoch 2 - Accuracy: 0.8289986996098829
+Epoch 2 - Save Best Score: 0.8290 Model
+Epoch 3 - avg_train_loss: -0.8268  avg_val_loss: -0.8180  time: 41s
+Epoch 3 - Accuracy: 0.85370611183355
+Epoch 3 - Save Best Score: 0.8537 Model
+Epoch 4 - avg_train_loss: -0.8477  avg_val_loss: -0.8437  time: 41s
+Epoch 4 - Accuracy: 0.8706111833550065
+Epoch 4 - Save Best Score: 0.8706 Model
+Epoch 5 - avg_train_loss: -0.8622  avg_val_loss: -0.8479  time: 41s
+Epoch 5 - Accuracy: 0.8719115734720416
+Epoch 5 - Save Best Score: 0.8719 Model
+Epoch 6 - avg_train_loss: -0.8761  avg_val_loss: -0.8562  time: 43s
+Epoch 6 - Accuracy: 0.8842652795838751
+Epoch 6 - Save Best Score: 0.8843 Model
+Epoch 7 - avg_train_loss: -0.8840  avg_val_loss: -0.8505  time: 44s
+Epoch 7 - Accuracy: 0.8849154746423927
+Epoch 7 - Save Best Score: 0.8849 Model
+Epoch 8 - avg_train_loss: -0.8931  avg_val_loss: -0.8667  time: 44s
+Epoch 8 - Accuracy: 0.8927178153446034
+Epoch 8 - Save Best Score: 0.8927 Model
+Epoch 9 - avg_train_loss: -0.9039  avg_val_loss: -0.8672  time: 44s
+Epoch 9 - Accuracy: 0.8894668400520156
+Epoch 10 - avg_train_loss: -0.9097  avg_val_loss: -0.8685  time: 43s
+Epoch 10 - Accuracy: 0.8914174252275683
+========== CV ==========
+Score: 0.89272
+========== training ==========
+Epoch 1 - avg_train_loss: -0.3789  avg_val_loss: -0.3829  time: 40s
+Epoch 1 - Accuracy: 0.3257477243172952
+Epoch 1 - Save Best Score: 0.3257 Model
+Epoch 2 - avg_train_loss: -0.3881  avg_val_loss: -0.3918  time: 40s
+Epoch 2 - Accuracy: 0.34785435630689204
+Epoch 2 - Save Best Score: 0.3479 Model
+========== training ==========
+Epoch 1 - avg_train_loss: 0.4765  avg_val_loss: 0.3819  time: 37s
+Epoch 1 - Accuracy: 0.846553966189857
+Epoch 1 - Save Best Score: 0.8466 Model
+Epoch 2 - avg_train_loss: 0.3381  avg_val_loss: 0.3497  time: 39s
+Epoch 2 - Accuracy: 0.8647594278283485
+Epoch 2 - Save Best Score: 0.8648 Model
+Epoch 3 - avg_train_loss: 0.2954  avg_val_loss: 0.3311  time: 38s
+Epoch 3 - Accuracy: 0.8732119635890767
+Epoch 3 - Save Best Score: 0.8732 Model
+Epoch 4 - avg_train_loss: 0.2683  avg_val_loss: 0.3293  time: 43s
+Epoch 4 - Accuracy: 0.8732119635890767
+========== training ==========
+Epoch 1 - avg_train_loss: 0.4765  avg_val_loss: 0.3819  time: 33s
+Epoch 1 - Accuracy: 0.846553966189857
+Epoch 1 - Save Best Score: 0.8466 Model
+Epoch 2 - avg_train_loss: 0.3381  avg_val_loss: 0.3497  time: 39s
+Epoch 2 - Accuracy: 0.8647594278283485
+Epoch 2 - Save Best Score: 0.8648 Model
+Epoch 3 - avg_train_loss: 0.2954  avg_val_loss: 0.3311  time: 41s
+Epoch 3 - Accuracy: 0.8732119635890767
+Epoch 3 - Save Best Score: 0.8732 Model
+Epoch 4 - avg_train_loss: 0.2683  avg_val_loss: 0.3293  time: 46s
+Epoch 4 - Accuracy: 0.8732119635890767
+Epoch 5 - avg_train_loss: 0.2418  avg_val_loss: 0.3392  time: 39s
+Epoch 5 - Accuracy: 0.8797139141742523
+Epoch 5 - Save Best Score: 0.8797 Model
+Epoch 6 - avg_train_loss: 0.2141  avg_val_loss: 0.3475  time: 36s
+Epoch 6 - Accuracy: 0.8790637191157347
+Epoch 7 - avg_train_loss: 0.1842  avg_val_loss: 0.3429  time: 46s
+Epoch 7 - Accuracy: 0.8771131339401821
+Epoch 8 - avg_train_loss: 0.1661  avg_val_loss: 0.3462  time: 48s
+Epoch 8 - Accuracy: 0.8810143042912874
+Epoch 8 - Save Best Score: 0.8810 Model
+Epoch 9 - avg_train_loss: 0.1550  avg_val_loss: 0.3472  time: 44s
+Epoch 9 - Accuracy: 0.8823146944083224
+Epoch 9 - Save Best Score: 0.8823 Model
+Epoch 10 - avg_train_loss: 0.1403  avg_val_loss: 0.3486  time: 46s
+Epoch 10 - Accuracy: 0.881664499349805
+Epoch 11 - avg_train_loss: 0.1864  avg_val_loss: 0.3699  time: 40s
+Epoch 11 - Accuracy: 0.881664499349805
+Epoch 12 - avg_train_loss: 0.1881  avg_val_loss: 0.3785  time: 44s
+Epoch 12 - Accuracy: 0.8842652795838751
+Epoch 12 - Save Best Score: 0.8843 Model
+Epoch 13 - avg_train_loss: 0.1545  avg_val_loss: 0.3965  time: 48s
+Epoch 13 - Accuracy: 0.8855656697009102
+Epoch 13 - Save Best Score: 0.8856 Model
+Epoch 14 - avg_train_loss: 0.1307  avg_val_loss: 0.3905  time: 47s
+Epoch 14 - Accuracy: 0.8758127438231469
+Epoch 15 - avg_train_loss: 0.1035  avg_val_loss: 0.4134  time: 40s
+Epoch 15 - Accuracy: 0.8836150845253576
+========== CV ==========
+Score: 0.88557
+========== training ==========
+Epoch 1 - avg_train_loss: 0.4586  avg_val_loss: 0.3899  time: 31s
+Epoch 1 - Accuracy: 0.8556566970091027
+Epoch 1 - Save Best Score: 0.8557 Model
+Epoch 2 - avg_train_loss: 0.3392  avg_val_loss: 0.3625  time: 36s
+Epoch 2 - Accuracy: 0.8595578673602081
+Epoch 2 - Save Best Score: 0.8596 Model
+Epoch 3 - avg_train_loss: 0.2985  avg_val_loss: 0.3431  time: 44s
+Epoch 3 - Accuracy: 0.8732119635890767
+Epoch 3 - Save Best Score: 0.8732 Model
+Epoch 4 - avg_train_loss: 0.2721  avg_val_loss: 0.3242  time: 35s
+Epoch 4 - Accuracy: 0.8784135240572172
+Epoch 4 - Save Best Score: 0.8784 Model
+Epoch 5 - avg_train_loss: 0.2470  avg_val_loss: 0.3375  time: 47s
+Epoch 5 - Accuracy: 0.8771131339401821
+Epoch 6 - avg_train_loss: 0.2183  avg_val_loss: 0.3563  time: 39s
+Epoch 6 - Accuracy: 0.8836150845253576
+Epoch 6 - Save Best Score: 0.8836 Model
+Epoch 7 - avg_train_loss: 0.1910  avg_val_loss: 0.3445  time: 51s
+Epoch 7 - Accuracy: 0.8868660598179454
+Epoch 7 - Save Best Score: 0.8869 Model
+Epoch 8 - avg_train_loss: 0.1646  avg_val_loss: 0.3555  time: 39s
+Epoch 8 - Accuracy: 0.8862158647594278
+Epoch 9 - avg_train_loss: 0.1538  avg_val_loss: 0.3641  time: 50s
+Epoch 9 - Accuracy: 0.8862158647594278
+Epoch 10 - avg_train_loss: 0.1473  avg_val_loss: 0.3572  time: 44s
+Epoch 10 - Accuracy: 0.888816644993498
+Epoch 10 - Save Best Score: 0.8888 Model
+Epoch 11 - avg_train_loss: 0.1865  avg_val_loss: 0.3734  time: 53s
+Epoch 11 - Accuracy: 0.8810143042912874
+Epoch 12 - avg_train_loss: 0.1826  avg_val_loss: 0.3811  time: 36s
+Epoch 12 - Accuracy: 0.881664499349805
+Epoch 13 - avg_train_loss: 0.1515  avg_val_loss: 0.4027  time: 47s
+Epoch 13 - Accuracy: 0.8764629388816645
+Epoch 14 - avg_train_loss: 0.1292  avg_val_loss: 0.4518  time: 45s
+Epoch 14 - Accuracy: 0.8738621586475943
+Epoch 15 - avg_train_loss: 0.1017  avg_val_loss: 0.4436  time: 42s
+Epoch 15 - Accuracy: 0.881664499349805
+========== CV ==========
+Score: 0.88882
+========== training ==========
+Epoch 1 - avg_train_loss: 0.4637  avg_val_loss: 0.3592  time: 31s
+Epoch 1 - Accuracy: 0.8543563068920677
+Epoch 1 - Save Best Score: 0.8544 Model
+Epoch 2 - avg_train_loss: 0.3268  avg_val_loss: 0.3327  time: 34s
+Epoch 2 - Accuracy: 0.8738621586475943
+Epoch 2 - Save Best Score: 0.8739 Model
+========== training ==========
+Epoch 1 - avg_train_loss: 0.4765  avg_val_loss: 0.3819  time: 42s
+Epoch 1 - Accuracy: 0.846553966189857
+Epoch 1 - Save Best Score: 0.8466 Model
+Epoch 2 - avg_train_loss: 0.3381  avg_val_loss: 0.3497  time: 51s
+Epoch 2 - Accuracy: 0.8647594278283485
+Epoch 2 - Save Best Score: 0.8648 Model
+Epoch 3 - avg_train_loss: 0.2954  avg_val_loss: 0.3311  time: 40s
+Epoch 3 - Accuracy: 0.8732119635890767
+Epoch 3 - Save Best Score: 0.8732 Model
+Epoch 4 - avg_train_loss: 0.2683  avg_val_loss: 0.3293  time: 45s
+Epoch 4 - Accuracy: 0.8732119635890767
+Epoch 5 - avg_train_loss: 0.2418  avg_val_loss: 0.3392  time: 49s
+Epoch 5 - Accuracy: 0.8797139141742523
+Epoch 5 - Save Best Score: 0.8797 Model
+Epoch 6 - avg_train_loss: 0.2141  avg_val_loss: 0.3475  time: 43s
+Epoch 6 - Accuracy: 0.8790637191157347
+Epoch 7 - avg_train_loss: 0.1842  avg_val_loss: 0.3429  time: 42s
+Epoch 7 - Accuracy: 0.8771131339401821
+Epoch 8 - avg_train_loss: 0.1661  avg_val_loss: 0.3462  time: 50s
+Epoch 8 - Accuracy: 0.8810143042912874
+Epoch 8 - Save Best Score: 0.8810 Model
+Epoch 9 - avg_train_loss: 0.1550  avg_val_loss: 0.3472  time: 42s
+Epoch 9 - Accuracy: 0.8823146944083224
+Epoch 9 - Save Best Score: 0.8823 Model
+Epoch 10 - avg_train_loss: 0.1403  avg_val_loss: 0.3486  time: 47s
+Epoch 10 - Accuracy: 0.881664499349805
+========== CV ==========
+Score: 0.88231
+========== training ==========
+Epoch 1 - avg_train_loss: 0.4636  avg_val_loss: 0.3741  time: 33s
+Epoch 1 - Accuracy: 0.8556566970091027
+Epoch 1 - Save Best Score: 0.8557 Model
+Epoch 2 - avg_train_loss: 0.3297  avg_val_loss: 0.3457  time: 35s
+Epoch 2 - Accuracy: 0.8686605981794538
+Epoch 2 - Save Best Score: 0.8687 Model
+Epoch 3 - avg_train_loss: 0.2985  avg_val_loss: 0.3373  time: 46s
+Epoch 3 - Accuracy: 0.8686605981794538
+Epoch 4 - avg_train_loss: 0.2615  avg_val_loss: 0.3258  time: 38s
+Epoch 4 - Accuracy: 0.8836150845253576
+Epoch 4 - Save Best Score: 0.8836 Model
+Epoch 5 - avg_train_loss: 0.2438  avg_val_loss: 0.3310  time: 60s
+Epoch 5 - Accuracy: 0.88296488946684
+Epoch 6 - avg_train_loss: 0.2169  avg_val_loss: 0.3393  time: 38s
+Epoch 6 - Accuracy: 0.8862158647594278
+Epoch 6 - Save Best Score: 0.8862 Model
+Epoch 7 - avg_train_loss: 0.1865  avg_val_loss: 0.3499  time: 36s
+Epoch 7 - Accuracy: 0.8842652795838751
+Epoch 8 - avg_train_loss: 0.1644  avg_val_loss: 0.3622  time: 39s
+Epoch 8 - Accuracy: 0.8803641092327699
+Epoch 9 - avg_train_loss: 0.1443  avg_val_loss: 0.3664  time: 46s
+Epoch 9 - Accuracy: 0.8777633289986996
+Epoch 10 - avg_train_loss: 0.1406  avg_val_loss: 0.3647  time: 50s
+Epoch 10 - Accuracy: 0.8784135240572172
+========== CV ==========
+Score: 0.88622
+========== training ==========
+Epoch 1 - avg_train_loss: 0.4706  avg_val_loss: 0.3820  time: 31s
+Epoch 1 - Accuracy: 0.8478543563068921
+Epoch 1 - Save Best Score: 0.8479 Model
+Epoch 2 - avg_train_loss: 0.3289  avg_val_loss: 0.3372  time: 38s
+Epoch 2 - Accuracy: 0.8738621586475943
+Epoch 2 - Save Best Score: 0.8739 Model
+Epoch 3 - avg_train_loss: 0.2982  avg_val_loss: 0.3328  time: 43s
+Epoch 3 - Accuracy: 0.8719115734720416
+Epoch 4 - avg_train_loss: 0.2675  avg_val_loss: 0.3324  time: 44s
+Epoch 4 - Accuracy: 0.8790637191157347
+Epoch 4 - Save Best Score: 0.8791 Model
+Epoch 5 - avg_train_loss: 0.2471  avg_val_loss: 0.3493  time: 42s
+Epoch 5 - Accuracy: 0.8810143042912874
+Epoch 5 - Save Best Score: 0.8810 Model
+Epoch 6 - avg_train_loss: 0.2163  avg_val_loss: 0.3459  time: 38s
+Epoch 6 - Accuracy: 0.8797139141742523
+Epoch 7 - avg_train_loss: 0.1881  avg_val_loss: 0.3435  time: 37s
+Epoch 7 - Accuracy: 0.8881664499349805
+Epoch 7 - Save Best Score: 0.8882 Model
+Epoch 8 - avg_train_loss: 0.1632  avg_val_loss: 0.3529  time: 48s
+Epoch 8 - Accuracy: 0.8823146944083224
+Epoch 9 - avg_train_loss: 0.1517  avg_val_loss: 0.3585  time: 51s
+Epoch 9 - Accuracy: 0.8842652795838751
+Epoch 10 - avg_train_loss: 0.1446  avg_val_loss: 0.3602  time: 45s
+Epoch 10 - Accuracy: 0.8868660598179454
+========== CV ==========
+Score: 0.88817
+========== training ==========
+Epoch 1 - avg_train_loss: 0.4764  avg_val_loss: 0.3864  time: 31s
+Epoch 1 - Accuracy: 0.8589076723016905
+Epoch 1 - Save Best Score: 0.8589 Model
+Epoch 2 - avg_train_loss: 0.3350  avg_val_loss: 0.3337  time: 36s
+Epoch 2 - Accuracy: 0.8732119635890767
+Epoch 2 - Save Best Score: 0.8732 Model
+Epoch 3 - avg_train_loss: 0.2929  avg_val_loss: 0.3163  time: 38s
+Epoch 3 - Accuracy: 0.8810143042912874
+Epoch 3 - Save Best Score: 0.8810 Model
+Epoch 4 - avg_train_loss: 0.2595  avg_val_loss: 0.3221  time: 42s
+Epoch 4 - Accuracy: 0.893368010403121
+Epoch 4 - Save Best Score: 0.8934 Model
+Epoch 5 - avg_train_loss: 0.2315  avg_val_loss: 0.3219  time: 40s
+Epoch 5 - Accuracy: 0.8946684005201561
+Epoch 5 - Save Best Score: 0.8947 Model
+Epoch 6 - avg_train_loss: 0.2073  avg_val_loss: 0.3291  time: 42s
+Epoch 6 - Accuracy: 0.8927178153446034
+Epoch 7 - avg_train_loss: 0.1803  avg_val_loss: 0.3387  time: 45s
+Epoch 7 - Accuracy: 0.8953185955786735
+Epoch 7 - Save Best Score: 0.8953 Model
+Epoch 8 - avg_train_loss: 0.1553  avg_val_loss: 0.3475  time: 45s
+Epoch 8 - Accuracy: 0.8907672301690507
+Epoch 9 - avg_train_loss: 0.1396  avg_val_loss: 0.3488  time: 43s
+Epoch 9 - Accuracy: 0.8894668400520156
+Epoch 10 - avg_train_loss: 0.1301  avg_val_loss: 0.3472  time: 41s
+Epoch 10 - Accuracy: 0.8946684005201561
+========== CV ==========
+Score: 0.89532
+========== training ==========
+Epoch 1 - avg_train_loss: 0.4686  avg_val_loss: 0.3867  time: 30s
+Epoch 1 - Accuracy: 0.8556566970091027
+Epoch 1 - Save Best Score: 0.8557 Model
+Epoch 2 - avg_train_loss: 0.3264  avg_val_loss: 0.3408  time: 33s
+Epoch 2 - Accuracy: 0.8758127438231469
+Epoch 2 - Save Best Score: 0.8758 Model
+Epoch 3 - avg_train_loss: 0.2845  avg_val_loss: 0.3252  time: 42s
+Epoch 3 - Accuracy: 0.881664499349805
+Epoch 3 - Save Best Score: 0.8817 Model
+Epoch 4 - avg_train_loss: 0.2555  avg_val_loss: 0.3253  time: 46s
+Epoch 4 - Accuracy: 0.8862158647594278
+Epoch 4 - Save Best Score: 0.8862 Model
+Epoch 5 - avg_train_loss: 0.2238  avg_val_loss: 0.3323  time: 40s
+Epoch 5 - Accuracy: 0.8862158647594278
+Epoch 6 - avg_train_loss: 0.1944  avg_val_loss: 0.3474  time: 47s
+Epoch 6 - Accuracy: 0.8875162548764629
+Epoch 6 - Save Best Score: 0.8875 Model
+Epoch 7 - avg_train_loss: 0.1673  avg_val_loss: 0.3654  time: 41s
+Epoch 7 - Accuracy: 0.888816644993498
+Epoch 7 - Save Best Score: 0.8888 Model
+Epoch 8 - avg_train_loss: 0.1477  avg_val_loss: 0.3582  time: 43s
+Epoch 8 - Accuracy: 0.8875162548764629
+Epoch 9 - avg_train_loss: 0.1335  avg_val_loss: 0.3649  time: 45s
+Epoch 9 - Accuracy: 0.8901170351105332
+Epoch 9 - Save Best Score: 0.8901 Model
+Epoch 10 - avg_train_loss: 0.1291  avg_val_loss: 0.3695  time: 54s
+Epoch 10 - Accuracy: 0.8894668400520156
+========== CV ==========
+Score: 0.89012
+========== training ==========
+Epoch 1 - avg_train_loss: -0.7485  avg_val_loss: -0.6925  time: 49s
+Epoch 1 - Accuracy: 0.7893368010403121
+Epoch 1 - Save Best Score: 0.7893 Model
+Epoch 2 - avg_train_loss: -0.8228  avg_val_loss: -0.7902  time: 48s
+Epoch 2 - Accuracy: 0.8309492847854356
+Epoch 2 - Save Best Score: 0.8309 Model
+Epoch 3 - avg_train_loss: -0.8360  avg_val_loss: -0.7463  time: 47s
+Epoch 3 - Accuracy: 0.8289986996098829
+Epoch 4 - avg_train_loss: -0.8505  avg_val_loss: -0.7597  time: 48s
+Epoch 4 - Accuracy: 0.842002600780234
+Epoch 4 - Save Best Score: 0.8420 Model
+Epoch 5 - avg_train_loss: -0.8659  avg_val_loss: -0.8291  time: 47s
+Epoch 5 - Accuracy: 0.8589076723016905
+Epoch 5 - Save Best Score: 0.8589 Model
+Epoch 6 - avg_train_loss: -0.8758  avg_val_loss: -0.8411  time: 46s
+Epoch 6 - Accuracy: 0.8660598179453837
+Epoch 6 - Save Best Score: 0.8661 Model
+Epoch 7 - avg_train_loss: -0.8882  avg_val_loss: -0.8588  time: 46s
+Epoch 7 - Accuracy: 0.8868660598179454
+Epoch 7 - Save Best Score: 0.8869 Model
+Epoch 8 - avg_train_loss: -0.8978  avg_val_loss: -0.8676  time: 47s
+Epoch 8 - Accuracy: 0.8985695708712613
+Epoch 8 - Save Best Score: 0.8986 Model
+========== CV ==========
+Score: 0.89857
+========== training ==========
+Epoch 1 - avg_train_loss: -0.7485  avg_val_loss: -0.6925  time: 48s
+Epoch 1 - Accuracy: 0.7893368010403121
+Epoch 1 - Save Best Score: 0.7893 Model
+Epoch 2 - avg_train_loss: -0.8228  avg_val_loss: -0.7902  time: 49s
+Epoch 2 - Accuracy: 0.8309492847854356
+Epoch 2 - Save Best Score: 0.8309 Model
+Epoch 3 - avg_train_loss: -0.8360  avg_val_loss: -0.7463  time: 50s
+Epoch 3 - Accuracy: 0.8289986996098829
+Epoch 4 - avg_train_loss: -0.8505  avg_val_loss: -0.7597  time: 47s
+Epoch 4 - Accuracy: 0.842002600780234
+Epoch 4 - Save Best Score: 0.8420 Model
+Epoch 5 - avg_train_loss: -0.8659  avg_val_loss: -0.8291  time: 47s
+Epoch 5 - Accuracy: 0.8589076723016905
+Epoch 5 - Save Best Score: 0.8589 Model
+Epoch 6 - avg_train_loss: -0.8758  avg_val_loss: -0.8411  time: 46s
+Epoch 6 - Accuracy: 0.8660598179453837
+Epoch 6 - Save Best Score: 0.8661 Model
+Epoch 7 - avg_train_loss: -0.8882  avg_val_loss: -0.8588  time: 45s
+Epoch 7 - Accuracy: 0.8868660598179454
+Epoch 7 - Save Best Score: 0.8869 Model
+Epoch 8 - avg_train_loss: -0.8978  avg_val_loss: -0.8676  time: 45s
+Epoch 8 - Accuracy: 0.8985695708712613
+Epoch 8 - Save Best Score: 0.8986 Model
+Epoch 9 - avg_train_loss: -0.9084  avg_val_loss: -0.8743  time: 47s
+Epoch 9 - Accuracy: 0.8901170351105332
+Epoch 10 - avg_train_loss: -0.9155  avg_val_loss: -0.8750  time: 49s
+Epoch 10 - Accuracy: 0.900520156046814
+Epoch 10 - Save Best Score: 0.9005 Model
+========== CV ==========
+Score: 0.90052
+========== training ==========
+Epoch 1 - avg_train_loss: -0.7485  avg_val_loss: -0.6925  time: 44s
+Epoch 1 - Accuracy: 0.7893368010403121
+Epoch 1 - Save Best Score: 0.7893 Model
+Epoch 2 - avg_train_loss: -0.8228  avg_val_loss: -0.7902  time: 48s
+Epoch 2 - Accuracy: 0.8309492847854356
+Epoch 2 - Save Best Score: 0.8309 Model
+Epoch 3 - avg_train_loss: -0.8360  avg_val_loss: -0.7463  time: 46s
+Epoch 3 - Accuracy: 0.8289986996098829
+Epoch 4 - avg_train_loss: -0.8505  avg_val_loss: -0.7597  time: 44s
+Epoch 4 - Accuracy: 0.842002600780234
+Epoch 4 - Save Best Score: 0.8420 Model
+Epoch 5 - avg_train_loss: -0.8659  avg_val_loss: -0.8291  time: 45s
+Epoch 5 - Accuracy: 0.8589076723016905
+Epoch 5 - Save Best Score: 0.8589 Model
+Epoch 6 - avg_train_loss: -0.8758  avg_val_loss: -0.8411  time: 46s
+Epoch 6 - Accuracy: 0.8660598179453837
+Epoch 6 - Save Best Score: 0.8661 Model
+Epoch 7 - avg_train_loss: -0.8882  avg_val_loss: -0.8588  time: 46s
+Epoch 7 - Accuracy: 0.8868660598179454
+Epoch 7 - Save Best Score: 0.8869 Model
+Epoch 8 - avg_train_loss: -0.8978  avg_val_loss: -0.8676  time: 48s
+Epoch 8 - Accuracy: 0.8985695708712613
+Epoch 8 - Save Best Score: 0.8986 Model
+Epoch 9 - avg_train_loss: -0.9084  avg_val_loss: -0.8743  time: 49s
+Epoch 9 - Accuracy: 0.8901170351105332
+Epoch 10 - avg_train_loss: -0.9155  avg_val_loss: -0.8750  time: 49s
+Epoch 10 - Accuracy: 0.900520156046814
+Epoch 10 - Save Best Score: 0.9005 Model
+Epoch 11 - avg_train_loss: -0.8683  avg_val_loss: -0.8141  time: 49s
+Epoch 11 - Accuracy: 0.85370611183355
+Epoch 12 - avg_train_loss: -0.8735  avg_val_loss: -0.8607  time: 45s
+Epoch 12 - Accuracy: 0.8810143042912874
+Epoch 13 - avg_train_loss: -0.8847  avg_val_loss: -0.8390  time: 46s
+Epoch 13 - Accuracy: 0.8771131339401821
+Epoch 14 - avg_train_loss: -0.8896  avg_val_loss: -0.8479  time: 46s
+Epoch 14 - Accuracy: 0.8745123537061118
+Epoch 15 - avg_train_loss: -0.8951  avg_val_loss: -0.8581  time: 47s
+Epoch 15 - Accuracy: 0.8881664499349805
+========== CV ==========
+Score: 0.90052
+========== training ==========
+Epoch 1 - avg_train_loss: -0.7485  avg_val_loss: -0.6925  time: 44s
+Epoch 1 - Accuracy: 0.7893368010403121
+Epoch 1 - Save Best Score: 0.7893 Model
+Epoch 2 - avg_train_loss: -0.8228  avg_val_loss: -0.7902  time: 47s
+Epoch 2 - Accuracy: 0.8309492847854356
+Epoch 2 - Save Best Score: 0.8309 Model
+Epoch 3 - avg_train_loss: -0.8360  avg_val_loss: -0.7463  time: 46s
+Epoch 3 - Accuracy: 0.8289986996098829
+Epoch 4 - avg_train_loss: -0.8505  avg_val_loss: -0.7597  time: 46s
+Epoch 4 - Accuracy: 0.842002600780234
+Epoch 4 - Save Best Score: 0.8420 Model
+Epoch 5 - avg_train_loss: -0.8659  avg_val_loss: -0.8291  time: 45s
+Epoch 5 - Accuracy: 0.8589076723016905
+Epoch 5 - Save Best Score: 0.8589 Model
+Epoch 6 - avg_train_loss: -0.8758  avg_val_loss: -0.8411  time: 44s
+Epoch 6 - Accuracy: 0.8660598179453837
+Epoch 6 - Save Best Score: 0.8661 Model
+Epoch 7 - avg_train_loss: -0.8882  avg_val_loss: -0.8588  time: 44s
+Epoch 7 - Accuracy: 0.8868660598179454
+Epoch 7 - Save Best Score: 0.8869 Model
+Epoch 8 - avg_train_loss: -0.8978  avg_val_loss: -0.8676  time: 44s
+Epoch 8 - Accuracy: 0.8985695708712613
+Epoch 8 - Save Best Score: 0.8986 Model
+Epoch 9 - avg_train_loss: -0.9084  avg_val_loss: -0.8743  time: 44s
+Epoch 9 - Accuracy: 0.8901170351105332
+Epoch 10 - avg_train_loss: -0.9155  avg_val_loss: -0.8750  time: 47s
+Epoch 10 - Accuracy: 0.900520156046814
+Epoch 10 - Save Best Score: 0.9005 Model
+========== CV ==========
+Score: 0.90052
+========== training ==========
+Epoch 1 - avg_train_loss: -0.7066  avg_val_loss: -0.6900  time: 42s
+Epoch 1 - Accuracy: 0.7919375812743823
+Epoch 1 - Save Best Score: 0.7919 Model
+Epoch 2 - avg_train_loss: -0.8149  avg_val_loss: -0.7616  time: 43s
+Epoch 2 - Accuracy: 0.8270481144343304
+Epoch 2 - Save Best Score: 0.8270 Model
+Epoch 3 - avg_train_loss: -0.8340  avg_val_loss: -0.8091  time: 43s
+Epoch 3 - Accuracy: 0.846553966189857
+Epoch 3 - Save Best Score: 0.8466 Model
+Epoch 4 - avg_train_loss: -0.8510  avg_val_loss: -0.7620  time: 43s
+Epoch 4 - Accuracy: 0.8036410923276983
+Epoch 5 - avg_train_loss: -0.8637  avg_val_loss: -0.8182  time: 42s
+Epoch 5 - Accuracy: 0.852405721716515
+Epoch 5 - Save Best Score: 0.8524 Model
+Epoch 6 - avg_train_loss: -0.8721  avg_val_loss: -0.8421  time: 45s
+Epoch 6 - Accuracy: 0.8589076723016905
+Epoch 6 - Save Best Score: 0.8589 Model
+Epoch 7 - avg_train_loss: -0.8859  avg_val_loss: -0.8570  time: 45s
+Epoch 7 - Accuracy: 0.8823146944083224
+Epoch 7 - Save Best Score: 0.8823 Model
+Epoch 8 - avg_train_loss: -0.8929  avg_val_loss: -0.8584  time: 46s
+Epoch 8 - Accuracy: 0.8862158647594278
+Epoch 8 - Save Best Score: 0.8862 Model
+Epoch 9 - avg_train_loss: -0.9043  avg_val_loss: -0.8717  time: 47s
+Epoch 9 - Accuracy: 0.8907672301690507
+Epoch 9 - Save Best Score: 0.8908 Model
+Epoch 10 - avg_train_loss: -0.9105  avg_val_loss: -0.8725  time: 48s
+Epoch 10 - Accuracy: 0.8901170351105332
+========== CV ==========
+Score: 0.89077
+========== training ==========
+Epoch 1 - avg_train_loss: -0.6195  avg_val_loss: -0.6098  time: 42s
+Epoch 1 - Accuracy: 0.6605981794538361
+Epoch 1 - Save Best Score: 0.6606 Model
+Epoch 2 - avg_train_loss: -0.6214  avg_val_loss: -0.6201  time: 41s
+Epoch 2 - Accuracy: 0.694408322496749
+Epoch 2 - Save Best Score: 0.6944 Model
+Epoch 3 - avg_train_loss: -0.6229  avg_val_loss: -0.6244  time: 42s
+Epoch 3 - Accuracy: 0.717815344603381
+Epoch 3 - Save Best Score: 0.7178 Model
+Epoch 4 - avg_train_loss: -0.6225  avg_val_loss: -0.6298  time: 42s
+Epoch 4 - Accuracy: 0.735370611183355
+Epoch 4 - Save Best Score: 0.7354 Model
+Epoch 5 - avg_train_loss: -0.6262  avg_val_loss: -0.6234  time: 41s
+Epoch 5 - Accuracy: 0.7275682704811444
+Epoch 6 - avg_train_loss: -0.6230  avg_val_loss: -0.6207  time: 43s
+Epoch 6 - Accuracy: 0.7184655396618985
+Epoch 7 - avg_train_loss: -0.6243  avg_val_loss: -0.6254  time: 43s
+Epoch 7 - Accuracy: 0.7269180754226268
+Epoch 8 - avg_train_loss: -0.6242  avg_val_loss: -0.6255  time: 45s
+Epoch 8 - Accuracy: 0.7327698309492848
+Epoch 9 - avg_train_loss: -0.6244  avg_val_loss: -0.6262  time: 45s
+Epoch 9 - Accuracy: 0.7243172951885566
+Epoch 10 - avg_train_loss: -0.6257  avg_val_loss: -0.6250  time: 44s
+Epoch 10 - Accuracy: 0.7230169050715215
+========== CV ==========
+Score: 0.73537
+========== training ==========
+Epoch 1 - avg_train_loss: -0.6766  avg_val_loss: -0.6826  time: 40s
+Epoch 1 - Accuracy: 0.7217165149544863
+Epoch 1 - Save Best Score: 0.7217 Model
+Epoch 2 - avg_train_loss: -0.6983  avg_val_loss: -0.7052  time: 41s
+Epoch 2 - Accuracy: 0.7535760728218466
+Epoch 2 - Save Best Score: 0.7536 Model
+========== training ==========
+========== training ==========
+Epoch 1 - avg_train_loss: -0.5792  avg_val_loss: -0.6234  time: 110s
+Epoch 1 - Accuracy: 0.6963589076723017
+Epoch 1 - Save Best Score: 0.6964 Model
+Epoch 2 - avg_train_loss: -0.6263  avg_val_loss: -0.7083  time: 58s
+Epoch 2 - Accuracy: 0.7301690507152145
+Epoch 2 - Save Best Score: 0.7302 Model
+Epoch 3 - avg_train_loss: -0.6244  avg_val_loss: -0.6310  time: 48s
+Epoch 3 - Accuracy: 0.7360208062418726
+Epoch 3 - Save Best Score: 0.7360 Model
+========== training ==========
+Epoch 1 - avg_train_loss: -0.5417  avg_val_loss: -0.5796  time: 98s
+Epoch 1 - Accuracy: 0.5916775032509753
+Epoch 1 - Save Best Score: 0.5917 Model
+========== training ==========
+Epoch 1 - avg_train_loss: -0.6114  avg_val_loss: -0.6275  time: 79s
+Epoch 1 - Accuracy: 0.6352405721716515
+Epoch 1 - Save Best Score: 0.6352 Model
+========== training ==========
+Epoch 1 - avg_train_loss: -0.6039  avg_val_loss: -0.6270  time: 40s
+Epoch 1 - Accuracy: 0.8361508452535761
+Epoch 1 - Save Best Score: 0.8362 Model
+Epoch 2 - avg_train_loss: -0.6388  avg_val_loss: -0.6457  time: 35s
+Epoch 2 - Accuracy: 0.840702210663199
+Epoch 2 - Save Best Score: 0.8407 Model
+Epoch 3 - avg_train_loss: -0.6569  avg_val_loss: -0.6546  time: 35s
+Epoch 3 - Accuracy: 0.8394018205461639
+Epoch 4 - avg_train_loss: -0.6703  avg_val_loss: -0.6727  time: 36s
+Epoch 4 - Accuracy: 0.8602080624187256
+Epoch 4 - Save Best Score: 0.8602 Model
+Epoch 5 - avg_train_loss: -0.6840  avg_val_loss: -0.6812  time: 37s
+Epoch 5 - Accuracy: 0.8647594278283485
+Epoch 5 - Save Best Score: 0.8648 Model
+Epoch 6 - avg_train_loss: -0.6945  avg_val_loss: -0.6861  time: 37s
+Epoch 6 - Accuracy: 0.8725617685305592
+Epoch 6 - Save Best Score: 0.8726 Model
+Epoch 7 - avg_train_loss: -0.7035  avg_val_loss: -0.6912  time: 37s
+Epoch 7 - Accuracy: 0.8719115734720416
+Epoch 8 - avg_train_loss: -0.7091  avg_val_loss: -0.6943  time: 37s
+Epoch 8 - Accuracy: 0.8693107932379714
+Epoch 9 - avg_train_loss: -0.7124  avg_val_loss: -0.6967  time: 36s
+Epoch 9 - Accuracy: 0.8667100130039012
+Epoch 10 - avg_train_loss: -0.7143  avg_val_loss: -0.6972  time: 36s
+Epoch 10 - Accuracy: 0.8693107932379714
+Epoch 11 - avg_train_loss: -0.7139  avg_val_loss: -0.7098  time: 35s
+Epoch 11 - Accuracy: 0.8686605981794538
+Epoch 12 - avg_train_loss: -0.7287  avg_val_loss: -0.7159  time: 35s
+Epoch 12 - Accuracy: 0.864109232769831
+Epoch 13 - avg_train_loss: -0.7422  avg_val_loss: -0.7259  time: 35s
+Epoch 13 - Accuracy: 0.8771131339401821
+Epoch 13 - Save Best Score: 0.8771 Model
+Epoch 14 - avg_train_loss: -0.7557  avg_val_loss: -0.7382  time: 37s
+Epoch 14 - Accuracy: 0.8790637191157347
+Epoch 14 - Save Best Score: 0.8791 Model
+Epoch 15 - avg_train_loss: -0.7674  avg_val_loss: -0.7517  time: 38s
+Epoch 15 - Accuracy: 0.8842652795838751
+Epoch 15 - Save Best Score: 0.8843 Model
+Epoch 16 - avg_train_loss: -0.7771  avg_val_loss: -0.7508  time: 39s
+Epoch 16 - Accuracy: 0.8875162548764629
+Epoch 16 - Save Best Score: 0.8875 Model
+Epoch 17 - avg_train_loss: -0.7855  avg_val_loss: -0.7499  time: 39s
+Epoch 17 - Accuracy: 0.8914174252275683
+Epoch 17 - Save Best Score: 0.8914 Model
+Epoch 18 - avg_train_loss: -0.7906  avg_val_loss: -0.7570  time: 39s
+Epoch 18 - Accuracy: 0.8881664499349805
+Epoch 19 - avg_train_loss: -0.7939  avg_val_loss: -0.7636  time: 39s
+Epoch 19 - Accuracy: 0.8855656697009102
+========== training ==========
+Epoch 1 - avg_train_loss: -0.5810  avg_val_loss: -0.6189  time: 82s
+Epoch 1 - Accuracy: 0.770481144343303
+Epoch 1 - Save Best Score: 0.7705 Model
+Epoch 2 - avg_train_loss: -0.6465  avg_val_loss: -0.6604  time: 93s
+Epoch 2 - Accuracy: 0.834850455136541
+Epoch 2 - Save Best Score: 0.8349 Model
+Epoch 3 - avg_train_loss: -0.6779  avg_val_loss: -0.6733  time: 84s
+Epoch 3 - Accuracy: 0.8250975292587777
+Epoch 4 - avg_train_loss: -0.6961  avg_val_loss: -0.7066  time: 103s
+Epoch 4 - Accuracy: 0.8543563068920677
+Epoch 4 - Save Best Score: 0.8544 Model
+========== training ==========
+========== training ==========
+========== training ==========
+========== training ==========
+========== training ==========
+========== training ==========
+========== training ==========
+Epoch 1 - avg_train_loss: -0.5915  avg_val_loss: -0.6505  time: 93s
+Epoch 1 - Accuracy: 0.8263979193758128
+Epoch 1 - Save Best Score: 0.8264 Model
+Epoch 2 - avg_train_loss: -0.6649  avg_val_loss: -0.6757  time: 102s
+Epoch 2 - Accuracy: 0.8615084525357607
+Epoch 2 - Save Best Score: 0.8615 Model
+Epoch 3 - avg_train_loss: -0.6910  avg_val_loss: -0.6913  time: 85s
+Epoch 3 - Accuracy: 0.8634590377113134
+Epoch 3 - Save Best Score: 0.8635 Model
+Epoch 4 - avg_train_loss: -0.7047  avg_val_loss: -0.7061  time: 89s
+Epoch 4 - Accuracy: 0.8667100130039012
+Epoch 4 - Save Best Score: 0.8667 Model
+Epoch 5 - avg_train_loss: -0.7192  avg_val_loss: -0.7178  time: 90s
+Epoch 5 - Accuracy: 0.8556566970091027
+Epoch 6 - avg_train_loss: -0.7336  avg_val_loss: -0.7260  time: 80s
+Epoch 6 - Accuracy: 0.8608582574772432
+Epoch 7 - avg_train_loss: -0.7418  avg_val_loss: -0.7318  time: 79s
+Epoch 7 - Accuracy: 0.8660598179453837
+========== training ==========
+Epoch 1 - avg_train_loss: -0.4671  avg_val_loss: -0.5202  time: 89s
+Epoch 1 - Accuracy: 0.505851755526658
+Epoch 1 - Save Best Score: 0.5059 Model
+========== training ==========
+========== training ==========
+Epoch 1 - avg_train_loss: -0.6503  avg_val_loss: -0.7981  time: 49s
+Epoch 1 - Accuracy: 0.8198959687906372
+Epoch 1 - Save Best Score: 0.8199 Model
+Epoch 2 - avg_train_loss: -0.8105  avg_val_loss: -0.7470  time: 47s
+Epoch 2 - Accuracy: 0.8107932379713915
+Epoch 3 - avg_train_loss: -0.8287  avg_val_loss: -0.7978  time: 49s
+Epoch 3 - Accuracy: 0.8322496749024707
+Epoch 3 - Save Best Score: 0.8322 Model
+Epoch 4 - avg_train_loss: -0.8449  avg_val_loss: -0.8046  time: 52s
+Epoch 4 - Accuracy: 0.8394018205461639
+Epoch 4 - Save Best Score: 0.8394 Model
+========== training ==========
+Epoch 1 - avg_train_loss: -0.5791  avg_val_loss: -0.6206  time: 52s
+Epoch 1 - Accuracy: 0.7139141742522757
+Epoch 1 - Save Best Score: 0.7139 Model
+========== training ==========
+Epoch 1 - avg_train_loss: 0.5122  avg_val_loss: 0.4818  time: 52s
+Epoch 1 - Accuracy: 0.8563068920676203
+Epoch 1 - Save Best Score: 0.8563 Model
+Epoch 2 - avg_train_loss: 0.4723  avg_val_loss: 0.4656  time: 49s
+Epoch 2 - Accuracy: 0.8569570871261378
+Epoch 2 - Save Best Score: 0.8570 Model
+Epoch 3 - avg_train_loss: 0.4596  avg_val_loss: 0.4601  time: 51s
+Epoch 3 - Accuracy: 0.8680104031209362
+Epoch 3 - Save Best Score: 0.8680 Model
+Epoch 4 - avg_train_loss: 0.4489  avg_val_loss: 0.4577  time: 52s
+Epoch 4 - Accuracy: 0.8751625487646294
+Epoch 4 - Save Best Score: 0.8752 Model
+Epoch 5 - avg_train_loss: 0.4415  avg_val_loss: 0.4534  time: 49s
+Epoch 5 - Accuracy: 0.8673602080624188
+Epoch 6 - avg_train_loss: 0.4351  avg_val_loss: 0.4493  time: 47s
+Epoch 6 - Accuracy: 0.8732119635890767
+Epoch 7 - avg_train_loss: 0.4284  avg_val_loss: 0.4475  time: 48s
+Epoch 7 - Accuracy: 0.8764629388816645
+Epoch 7 - Save Best Score: 0.8765 Model
+========== training ==========
+Epoch 1 - avg_train_loss: 0.5806  avg_val_loss: 0.5477  time: 52s
+Epoch 1 - Accuracy: 0.7620286085825748
+Epoch 1 - Save Best Score: 0.7620 Model
+========== training ==========
+========== training ==========
+Epoch 1 - avg_train_loss: 0.5819  avg_val_loss: 0.5310  time: 108s
+Epoch 1 - Accuracy: 0.8452535760728218
+Epoch 1 - Save Best Score: 0.8453 Model
+Epoch 2 - avg_train_loss: 0.5141  avg_val_loss: 0.5146  time: 108s
+Epoch 2 - Accuracy: 0.8647594278283485
+Epoch 2 - Save Best Score: 0.8648 Model
+Epoch 3 - avg_train_loss: 0.4970  avg_val_loss: 0.4987  time: 105s
+Epoch 3 - Accuracy: 0.8680104031209362
+Epoch 3 - Save Best Score: 0.8680 Model
+========== training ==========
+Epoch 1 - avg_train_loss: 0.5930  avg_val_loss: 0.5666  time: 73s
+Epoch 1 - Accuracy: 0.8459037711313394
+Epoch 1 - Save Best Score: 0.8459 Model
+Epoch 2 - avg_train_loss: 0.5498  avg_val_loss: 0.5417  time: 80s
+Epoch 2 - Accuracy: 0.8732119635890767
+Epoch 2 - Save Best Score: 0.8732 Model
+Epoch 3 - avg_train_loss: 0.5302  avg_val_loss: 0.5330  time: 81s
+Epoch 3 - Accuracy: 0.871261378413524
+Epoch 4 - avg_train_loss: 0.5182  avg_val_loss: 0.5206  time: 89s
+Epoch 4 - Accuracy: 0.8803641092327699
+Epoch 4 - Save Best Score: 0.8804 Model
+Epoch 5 - avg_train_loss: 0.5064  avg_val_loss: 0.5122  time: 80s
+Epoch 5 - Accuracy: 0.8868660598179454
+Epoch 5 - Save Best Score: 0.8869 Model
+Epoch 6 - avg_train_loss: 0.4942  avg_val_loss: 0.5045  time: 85s
+Epoch 6 - Accuracy: 0.8842652795838751
+Epoch 7 - avg_train_loss: 0.4843  avg_val_loss: 0.5012  time: 85s
+Epoch 7 - Accuracy: 0.881664499349805
+========== training ==========
+Epoch 1 - avg_train_loss: 0.5930  avg_val_loss: 0.5666  time: 79s
+Epoch 1 - Accuracy: 0.8459037711313394
+Epoch 1 - Save Best Score: 0.8459 Model
+========== training ==========
+========== training ==========
+========== training ==========
+                                                                                                                                                 ========== training ==========
+========== training ==========
+Epoch 1 - avg_train_loss: 0.5614  avg_val_loss: 0.5304  time: 73s
+Epoch 1 - Accuracy: 0.8621586475942783
+Epoch 1 - Save Best Score: 0.8622 Model
+Epoch 2 - avg_train_loss: 0.5127  avg_val_loss: 0.4972  time: 82s
+Epoch 2 - Accuracy: 0.8699609882964889
+Epoch 2 - Save Best Score: 0.8700 Model
+Epoch 3 - avg_train_loss: 0.4769  avg_val_loss: 0.4691  time: 80s
+Epoch 3 - Accuracy: 0.8823146944083224
+Epoch 3 - Save Best Score: 0.8823 Model
+Epoch 4 - avg_train_loss: 0.4576  avg_val_loss: 0.4610  time: 83s
+Epoch 4 - Accuracy: 0.8738621586475943
+Epoch 5 - avg_train_loss: 0.4411  avg_val_loss: 0.4450  time: 80s
+Epoch 5 - Accuracy: 0.8790637191157347
+========== training ==========
+Epoch 1 - avg_train_loss: 0.5889  avg_val_loss: 0.6750  time: 74s
+Epoch 1 - Accuracy: 0.6222366710013004
+Epoch 1 - Save Best Score: 0.6222 Model
+========== training ==========
+Epoch 1 - avg_train_loss: 0.5580  avg_val_loss: 0.5256  time: 78s
+Epoch 1 - Accuracy: 0.8543563068920677
+Epoch 1 - Save Best Score: 0.8544 Model
+Epoch 2 - avg_train_loss: 0.5009  avg_val_loss: 0.4846  time: 83s
+Epoch 2 - Accuracy: 0.8634590377113134
+Epoch 2 - Save Best Score: 0.8635 Model
+========== training ==========
+Epoch 1 - avg_train_loss: 0.5767  avg_val_loss: 0.5498  time: 79s
+Epoch 1 - Accuracy: 0.8485045513654096
+Epoch 1 - Save Best Score: 0.8485 Model
+========== training ==========
+Epoch 1 - avg_train_loss: 0.5122  avg_val_loss: 0.5023  time: 68s
+Epoch 1 - Accuracy: 0.8237971391417426
+Epoch 1 - Save Best Score: 0.8238 Model
+Epoch 2 - avg_train_loss: 0.4676  avg_val_loss: 0.4588  time: 71s
+Epoch 2 - Accuracy: 0.8699609882964889
+Epoch 2 - Save Best Score: 0.8700 Model
+Epoch 3 - avg_train_loss: 0.4432  avg_val_loss: 0.4515  time: 72s
+Epoch 3 - Accuracy: 0.8758127438231469
+Epoch 3 - Save Best Score: 0.8758 Model
+Epoch 4 - avg_train_loss: 0.4275  avg_val_loss: 0.4453  time: 69s
+Epoch 4 - Accuracy: 0.8797139141742523
+Epoch 4 - Save Best Score: 0.8797 Model
+Epoch 5 - avg_train_loss: 0.4166  avg_val_loss: 0.4413  time: 78s
+Epoch 5 - Accuracy: 0.881664499349805
+Epoch 5 - Save Best Score: 0.8817 Model
+Epoch 6 - avg_train_loss: 0.4053  avg_val_loss: 0.4390  time: 66s
+Epoch 6 - Accuracy: 0.8797139141742523
+Epoch 7 - avg_train_loss: 0.3958  avg_val_loss: 0.4319  time: 74s
+Epoch 7 - Accuracy: 0.888816644993498
+Epoch 7 - Save Best Score: 0.8888 Model
+Epoch 8 - avg_train_loss: 0.3919  avg_val_loss: 0.4439  time: 72s
+Epoch 8 - Accuracy: 0.8810143042912874
+Epoch 9 - avg_train_loss: 0.3851  avg_val_loss: 0.4324  time: 70s
+Epoch 9 - Accuracy: 0.8907672301690507
+Epoch 9 - Save Best Score: 0.8908 Model
+Epoch 10 - avg_train_loss: 0.3790  avg_val_loss: 0.4321  time: 81s
+Epoch 10 - Accuracy: 0.8914174252275683
+Epoch 10 - Save Best Score: 0.8914 Model
+========== CV ==========
+Score: 0.89142
+========== training ==========
+Epoch 1 - avg_train_loss: 0.5930  avg_val_loss: 0.5666  time: 70s
+Epoch 1 - Accuracy: 0.8459037711313394
+Epoch 1 - Save Best Score: 0.8459 Model
+Epoch 2 - avg_train_loss: 0.5498  avg_val_loss: 0.5417  time: 84s
+Epoch 2 - Accuracy: 0.8732119635890767
+Epoch 2 - Save Best Score: 0.8732 Model
+========== training ==========
+Epoch 1 - avg_train_loss: 0.5930  avg_val_loss: 0.5666  time: 77s
+Epoch 1 - Accuracy: 0.8459037711313394
+Epoch 1 - Save Best Score: 0.8459 Model
+Epoch 2 - avg_train_loss: 0.5498  avg_val_loss: 0.5417  time: 73s
+Epoch 2 - Accuracy: 0.8732119635890767
+Epoch 2 - Save Best Score: 0.8732 Model
+Epoch 3 - avg_train_loss: 0.5302  avg_val_loss: 0.5330  time: 70s
+Epoch 3 - Accuracy: 0.871261378413524
+Epoch 4 - avg_train_loss: 0.5182  avg_val_loss: 0.5206  time: 71s
+Epoch 4 - Accuracy: 0.8803641092327699
+Epoch 4 - Save Best Score: 0.8804 Model
+Epoch 5 - avg_train_loss: 0.5064  avg_val_loss: 0.5122  time: 68s
+Epoch 5 - Accuracy: 0.8868660598179454
+Epoch 5 - Save Best Score: 0.8869 Model
+Epoch 6 - avg_train_loss: 0.4942  avg_val_loss: 0.5045  time: 76s
+Epoch 6 - Accuracy: 0.8842652795838751
+Epoch 7 - avg_train_loss: 0.4843  avg_val_loss: 0.5012  time: 70s
+Epoch 7 - Accuracy: 0.881664499349805
+Epoch 8 - avg_train_loss: 0.4737  avg_val_loss: 0.4925  time: 69s
+Epoch 8 - Accuracy: 0.8849154746423927
+========== training ==========
+Epoch 1 - avg_train_loss: 0.5614  avg_val_loss: 0.5304  time: 75s
+Epoch 1 - Accuracy: 0.8621586475942783
+Epoch 1 - Save Best Score: 0.8622 Model
+Epoch 2 - avg_train_loss: 0.5127  avg_val_loss: 0.4972  time: 72s
+Epoch 2 - Accuracy: 0.8699609882964889
+Epoch 2 - Save Best Score: 0.8700 Model
+Epoch 3 - avg_train_loss: 0.4769  avg_val_loss: 0.4691  time: 68s
+Epoch 3 - Accuracy: 0.8823146944083224
+Epoch 3 - Save Best Score: 0.8823 Model
+Epoch 4 - avg_train_loss: 0.4576  avg_val_loss: 0.4610  time: 67s
+Epoch 4 - Accuracy: 0.8738621586475943
+========== training ==========
+Epoch 1 - avg_train_loss: 0.5614  avg_val_loss: 0.5304  time: 81s
+Epoch 1 - Accuracy: 0.8621586475942783
+Epoch 1 - Save Best Score: 0.8622 Model
+Epoch 2 - avg_train_loss: 0.5127  avg_val_loss: 0.4972  time: 73s
+Epoch 2 - Accuracy: 0.8699609882964889
+Epoch 2 - Save Best Score: 0.8700 Model
+Epoch 3 - avg_train_loss: 0.4769  avg_val_loss: 0.4691  time: 77s
+Epoch 3 - Accuracy: 0.8823146944083224
+Epoch 3 - Save Best Score: 0.8823 Model
+Epoch 4 - avg_train_loss: 0.4576  avg_val_loss: 0.4610  time: 72s
+Epoch 4 - Accuracy: 0.8738621586475943
+========== training ==========
+Epoch 1 - avg_train_loss: 0.5614  avg_val_loss: 0.5304  time: 93s
+Epoch 1 - Accuracy: 0.8621586475942783
+Epoch 1 - Save Best Score: 0.8622 Model
+Epoch 2 - avg_train_loss: 0.5127  avg_val_loss: 0.4972  time: 74s
+Epoch 2 - Accuracy: 0.8699609882964889
+Epoch 2 - Save Best Score: 0.8700 Model
+Epoch 3 - avg_train_loss: 0.4769  avg_val_loss: 0.4691  time: 70s
+Epoch 3 - Accuracy: 0.8823146944083224
+Epoch 3 - Save Best Score: 0.8823 Model
+Epoch 4 - avg_train_loss: 0.4576  avg_val_loss: 0.4610  time: 72s
+Epoch 4 - Accuracy: 0.8738621586475943
